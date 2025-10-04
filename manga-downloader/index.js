@@ -1,5 +1,5 @@
 import MangaDexClient from './lib/mangadex.js';
-import { formatMangaInfo, formatChapterInfo, displayMangaInfo, displayChapterInfo, sleep } from './lib/utils.js';
+import { formatMangaInfo, formatChapterInfo, displayMangaInfo, displayChapterInfo, sleep, downloadChapterImages } from './lib/utils.js';
 
 /**
  * Main application - Search for "Chainsaw Man" and display manga info, chapters, and details
@@ -193,6 +193,26 @@ async function main() {
       } catch (error) {
         console.error(`❌ Failed to get details for chapter ${chapter.chapter}: ${error.message}`);
       }
+    }
+
+    // Download images for the chapter
+    console.log('\n' + '═'.repeat(80));
+    console.log('IMAGE DOWNLOAD');
+    console.log('═'.repeat(80));
+
+    try {
+      if (targetChapterNumber) {
+        // Download the specific chapter that was found
+        const chapterToDownload = chaptersToDetail[0];
+        await downloadChapterImages(client, chapterToDownload.id, chapterToDownload, selectedManga.title);
+      } else {
+        // Download the latest chapter (first in the list)
+        const latestChapter = formattedChapters[0];
+        console.log(`Downloading latest chapter: ${latestChapter.chapter}`);
+        await downloadChapterImages(client, latestChapter.id, latestChapter, selectedManga.title);
+      }
+    } catch (error) {
+      console.error(`\n❌ Download failed: ${error.message}`);
     }
 
     // Summary
