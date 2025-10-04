@@ -1,0 +1,6 @@
+apify_client==2.1.0
+apify_shared==2.1.0
+colorama==0.4.6
+impit==0.7.1
+more-itertools==10.8.0
+python-dotenv==1.1.1

@@ -9,7 +9,10 @@ https://docs.apify.com/sdk/python
 from __future__ import annotations
 
 import logging
+import os
+from pathlib import Path
 
+from dotenv import load_dotenv
 from apify import Actor
 from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import create_react_agent
@@ -17,6 +20,10 @@ from langgraph.prebuilt import create_react_agent
 from src.models import AgentStructuredOutput
 from src.tools import tool_calculator_sum, tool_scrape_instagram_profile_posts
 from src.utils import log_state
+
+# Load environment variables from .env file
+env_path = Path(__file__).parent.parent / '.env'
+load_dotenv(dotenv_path=env_path)
 
 
 async def main() -> None:

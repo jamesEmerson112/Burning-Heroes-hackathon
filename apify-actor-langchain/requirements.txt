@@ -4,3 +4,4 @@
 apify < 4.0.0
 langchain-openai < 1.0.0
 langgraph < 1.0.0
+python-dotenv < 2.0.0
