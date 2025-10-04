@@ -55,7 +55,7 @@ async def main() -> None:
 
         # Create the ReAct agent graph
         # see https://langchain-ai.github.io/langgraph/reference/prebuilt/?h=react#langgraph.prebuilt.chat_agent_executor.create_react_agent
-        tools = [tool_calculator_sum, tool_scrape_instagram_profile_posts]
+        tools = [tool_scrape_instagram_profile_posts]
         graph = create_react_agent(llm, tools, response_format=AgentStructuredOutput)
 
         inputs: dict = {'messages': [('user', query)]}
