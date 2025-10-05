@@ -18,7 +18,11 @@ from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import create_react_agent
 
 from src.models import AgentStructuredOutput
-from src.tools import tool_calculator_sum, tool_scrape_instagram_profile_posts
+from src.tools import (
+    tool_calculator_sum,
+    tool_scrape_instagram_profile_posts,
+    tool_scrape_yc_company
+)
 from src.utils import log_state
 
 # Load environment variables from .env file
@@ -40,8 +44,62 @@ async def main() -> None:
         # Charge for Actor start
         await Actor.charge('actor-start')
 
-        # Handle input
-        actor_input = await Actor.get_input()
+        # Handle input - Always prompt interactively
+        import json
+
+        # Try to load previous query
+        previous_query = None
+        input_dir = Path(__file__).parent.parent / 'storage' / 'key_value_stores' / 'default'
+
+        # Check for both INPUT and INPUT.json (Apify SDK uses INPUT without extension)
+        input_file = input_dir / 'INPUT.json'
+        if not input_file.exists():
+            input_file = input_dir / 'INPUT'
+
+        if input_file.exists():
+            try:
+                with open(input_file, 'r') as f:
+                    previous_input = json.load(f)
+                    previous_query = previous_input.get('query')
+            except Exception:
+                pass
+
+        # Always show interactive prompt
+        print("\n🤖 Enter your query:")
+        if previous_query:
+            print(f"\nPrevious query: {previous_query}")
+            print("(Press Enter to reuse, or type a new query)")
+
+        print("\nExamples:")
+        print("  • What is 100 + 250 + 375?")
+        print("  • Get the total likes and comments for latest 10 posts on @openai Instagram")
+        print()
+
+        query = input("Your query: ").strip()
+
+        # If empty and previous exists, reuse it
+        if not query and previous_query:
+            query = previous_query
+            print(f"✨ Reusing previous query: {query}")
+        elif not query:
+            msg = 'No query provided!'
+            raise ValueError(msg)
+
+        # Use defaults for other settings
+        actor_input = {
+            'query': query,
+            'modelName': 'gpt-4.1-2025-04-14',
+            'debug': True
+        }
+
+        # Save to INPUT.json
+        input_dir.mkdir(parents=True, exist_ok=True)
+        with open(input_file, 'w') as f:
+            json.dump(actor_input, f, indent=2)
+
+        print(f"\n✅ Using query: {query}")
+        print(f"📊 Model: {actor_input['modelName']} | Debug: enabled")
+        print(f"💾 Saved to: {input_file}\n")
 
         query = actor_input.get('query')
         model_name = actor_input.get('modelName', 'gpt-4o-mini')
@@ -55,7 +113,11 @@ async def main() -> None:
 
         # Create the ReAct agent graph
         # see https://langchain-ai.github.io/langgraph/reference/prebuilt/?h=react#langgraph.prebuilt.chat_agent_executor.create_react_agent
-        tools = [tool_calculator_sum, tool_scrape_instagram_profile_posts]
+        tools = [
+            tool_calculator_sum,
+            tool_scrape_instagram_profile_posts,
+            tool_scrape_yc_company
+        ]
         graph = create_react_agent(llm, tools, response_format=AgentStructuredOutput)
 
         inputs: dict = {'messages': [('user', query)]}
@@ -72,6 +134,14 @@ async def main() -> None:
             Actor.log.error('Failed to get a response from the ReAct agent!')
             await Actor.fail(status_message='Failed to get a response from the ReAct agent!')
             return
+
+        # Print response to console for easy viewing
+        print("\n" + "="*60)
+        print("📝 AGENT RESPONSE")
+        print("="*60)
+        print(f"\nQuery: {query}")
+        print(f"\nResponse:\n{last_message}")
+        print("\n" + "="*60 + "\n")
 
         # Charge for task completion
         await Actor.charge('task-completed')

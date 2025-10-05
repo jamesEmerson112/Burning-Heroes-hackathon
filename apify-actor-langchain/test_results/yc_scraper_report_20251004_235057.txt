@@ -1,0 +1,931 @@
+================================================================================
+Y COMBINATOR SCRAPER RESULTS
+================================================================================
+
+Timestamp: 2025-10-04 23:50:57
+Total Companies: 25
+Dataset URL: https://console.apify.com/storage/datasets/Fdk8A1FvJnV50TBLN
+
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #1: Teleport
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 862
+  • Batch: Summer 2015
+  • Team Size: 200
+  • Year Founded: 2015
+  • Status: ACTIVE
+  • Location: Oakland, CA
+  • Website: https://goteleport.com
+  • YC URL: https://www.ycombinator.com/companies/teleport
+  • LinkedIn: https://www.linkedin.com/company/go-teleport/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The easiest, most secure way to access all your infrastructure
+
+LONG DESCRIPTION:
+  Our open source Infrastructure Access Platform helps developers and security professionals to simplify secure access to servers, Kubernetes, internal web apps, databases, and cloud provider APIs across all environments.
+
+TAGS:
+  DEVELOPER-TOOLS, DEVSECOPS, NEXT-GEN-NETWORK-SECURITY, OAKLAND
+
+FOUNDERS (3):
+  • Ev Kontsevoy
+    LinkedIn: https://www.linkedin.com/in/kontsevoy/
+  • Alexander Klizhentas
+    LinkedIn: None
+  • Taylor Wakefield
+    LinkedIn: https://www.linkedin.com/in/taylorwakefield/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #2: Clidey
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30468
+  • Batch: Spring 2025
+  • Team Size: 3
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://clidey.com
+  • YC URL: https://www.ycombinator.com/companies/clidey
+  • LinkedIn: https://www.linkedin.com/company/clidey
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Documentation made for AI Agents
+
+LONG DESCRIPTION:
+  Clidey is building Docucod (https://docucod.com)
+
+Docucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.
+
+Seamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.
+
+From onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.
+
+It’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.
+
+TAGS:
+  DEVELOPER-TOOLS, SAAS, B2B, AI, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Hemang Kandwal
+    LinkedIn: https://linkedin.com/in/hemangkandwal
+  • Anguel Hristozov
+    LinkedIn: https://linkedin.com/in/ahristozov
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #3: GiveMeTap
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 764
+  • Batch: Winter 2015
+  • Team Size: 1
+  • Year Founded: 2011
+  • Status: ACTIVE
+  • Location: London, United Kingdom
+  • Website: http://givemetap.com
+  • YC URL: https://www.ycombinator.com/companies/givemetap
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  We produce & sell stainless steel water bottles that enables people…
+
+LONG DESCRIPTION:
+  GiveMeTap is a social enterprise. Our mission is to make clean drinking water available to everyone, everywhere.
+
+We create stainless steel water bottles, and each bottle funds 5 years of clean water for someone in Africa. When you get a GiveMeTap bottle, you also have access to the free-water network of cafes and shops who give free tap water to people on the go. No questions, no hassle.
+
+We build water projects in remote villages and elect a water committee to run the maintenance of the water. So far we have made an impact in Namibia, Malawi, and Ghana to bring clean water for the first time.
+
+We like to think of this as ‘Water for You, Water for Everyone’.
+
+We help awesome companies create custom bottles for their staff, customers, and events so that they can stay hydrated, reduce plastic waste and help fund water projects. Our partners include:
+
+Deloitte
+HSBC
+YCombinator
+Google
+TED
+Flexport
+Legal & General
+Richard Branson's The Lodge, Switzerland
+Cambridge University 
+
+Want to get your company involved? Visit http://bit.ly/2j2Ef64
+
+Water for you. Water for everyone.
+
+TAGS:
+  SUSTAINABILITY
+
+FOUNDERS (1):
+  • Edwin Broni-Mensah
+    LinkedIn: https://www.linkedin.com/in/ebronimensah
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #4: Truebill
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 1005
+  • Batch: Winter 2016
+  • Team Size: 225
+  • Year Founded: 2015
+  • Status: ACQUIRED
+  • Location: Silver Spring, MD
+  • Website: https://www.truebill.com
+  • YC URL: https://www.ycombinator.com/companies/truebill
+  • LinkedIn: https://www.linkedin.com/company/rocketmoney/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Live your best financial life
+
+LONG DESCRIPTION:
+  Rocket Money (formerly Truebill) is a leading personal finance app that analyzes members' spending habits, identifies inefficiencies, and offers immediate methods to improve their financial health. It enables people to optimize their spending, manage subscriptions, lower their bills, and automatically set aside money to reach their savings goals. Truebill has saved members more than $100 million since 2016 and is headquartered in Silver Spring, Maryland, with offices in San Francisco. 
+
+Truebill's mission is to empower people to live their best financial lives. Truebill offers members a unique understanding of their finances and a suite of valuable services that save them time and money - ultimately giving them a leg up on their financial journey. 
+
+Truebill is backed by Accel, Bessemer Venture Partners, Eldridge Industries, and YCombinator.
+
+TAGS:
+  FINTECH
+
+FOUNDERS (3):
+  • Yahya Mokhtarzada
+    LinkedIn: https://www.linkedin.com/in/yahyamokhtarzada
+  • Haroon Mokhtarzada
+    LinkedIn: https://www.linkedin.com/in/haroonmokhtarzada/
+  • Idris Mokhtarzada
+    LinkedIn: https://www.linkedin.com/in/idrismokhtarzada
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #5: Ironclad
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 866
+  • Batch: Summer 2015
+  • Team Size: 400
+  • Year Founded: 2014
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: http://ironcladapp.com
+  • YC URL: https://www.ycombinator.com/companies/ironclad
+  • LinkedIn: https://www.linkedin.com/company/ironclad-inc-/
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Digital contracting platform for legal teams.
+
+LONG DESCRIPTION:
+  Contracts are business decisions trapped in administrative tasks. Ironclad is software that does all the administrative work better left for a robot, freeing legal teams to do more substantive work and drive business strategy. By automating contracting processes and extracting intelligence from contracts, Ironclad lets legal teams focus on legal work, rather than paperwork. Legal teams at companies like Gusto, HotelTonight, GoFundMe, Glassdoor, Procore use Ironclad to get their contracts done more efficiently and accurately, and to maintain a single source of truth regarding their contents.
+
+Headquartered in San Francisco, Ironclad is backed by Accel, Greylock, SV Angel, Formation 8, and was incubated in Y Combinator. For more information, visit https://www.ironcladapp.com.
+
+TAGS:
+  SAAS, LEGALTECH, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Jason Boehmig
+    LinkedIn: http://www.linkedin.com/in/jboehmig
+  • Cai GoGwilt
+    LinkedIn: https://www.linkedin.com/pub/cai-gogwilt/22/18a/77b
+
+OPEN POSITIONS (3):
+  • Staff Product Designer @ San Francisco, CA / New York, NY, US / Remote (US)
+    Ironclad is the #1 contract lifecycle management platform for innovative companies.  Every company, ...
+  • Senior Software Engineer, AI @ San Francisco, CA, US / Indianapolis, IN, US / New York, NY, US / Remote (US)
+    Ironclad is the #1 contract lifecycle management platform for innovative companies. Every company, i...
+  • Legal Engineer (Aka Implementation Engineer) @ San Francisco, CA, US / Indianapolis, IN, US / New York, NY, US / Remote (US)
+    Ironclad is the #1 contract lifecycle management platform for innovative companies. Every company, i...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #6: Macadamia
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30260
+  • Batch: Winter 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://macadamialabs.com
+  • YC URL: https://www.ycombinator.com/companies/macadamia
+  • LinkedIn: https://www.linkedin.com/company/105566815/
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  AI Agents for Complex Engineering Projects
+
+LONG DESCRIPTION:
+  Macadamia builds AI agents for complex engineering projects. 
+They automate both engineering & business processes, to automate away all low-leverage work.
+It integrates with all engineering data sources, technical documentation, and third-party software tools.
+Macadamia serves customers in mechanical engineering, manufacturing, and construction.
+
+FOUNDERS (2):
+  • Abel Van Steenweghen
+    LinkedIn: https://www.linkedin.com/in/abelvs/
+  • Brecht Pierreux
+    LinkedIn: https://www.linkedin.com/in/brecht-pierreux-54b327181/
+
+OPEN POSITIONS (1):
+  • Founding Engineer (Full-Stack) @ San Francisco, CA, US / Ghent, Flanders, BE
+    As a Founding Engineer you’ll have responsibility over:
+Building generalizable AI agents that can wo...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #7: Aptible
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 651
+  • Batch: Summer 2014
+  • Team Size: 25
+  • Year Founded: 2013
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.aptible.com
+  • YC URL: https://www.ycombinator.com/companies/aptible
+  • LinkedIn: https://www.linkedin.com/company/aptible
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The No Infrastructure Platform as a Service
+
+LONG DESCRIPTION:
+  At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.
+
+TAGS:
+  DEVELOPER-TOOLS, DEVSECOPS, DEVOPS, WEB-DEVELOPMENT, CLOUD-COMPUTING, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Frank Macreery
+    LinkedIn: https://www.linkedin.com/in/fancyremarker
+  • Chas Ballew
+    LinkedIn: https://www.linkedin.com/in/chasballew/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #8: Petcube
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 995
+  • Batch: Winter 2016
+  • Team Size: 51
+  • Year Founded: 2012
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: http://petcube.com
+  • YC URL: https://www.ycombinator.com/companies/petcube
+  • LinkedIn: https://www.linkedin.com/company/petcube
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Petcube is on the mission to improve lives of pets and pet owners…
+
+LONG DESCRIPTION:
+  Petcube is a company reimagining pet care, and using technology to keep people connected with their pets. Its first product, Petcube Camera, is an interactive pet monitor with real time video and built-in laser pointer. It allows pet owners to watch, talk to, and play with their pet from their smartphone, no matter where they are. 
+
+Founded in Kyiv in 2013, Petcube was funded on Kickstarter and became one of the most successful crowdfunding pet products in history. Since graduating from the prestigious Y-Combinator incubation program, Petcube has gone on to launch two additional products, Petcube Play and Petcube Bites, as well as a cloud video recording service, Petcube Care. Petcube products are available online and in stores including Brookstone, Best Buy, and Petco.
+
+TAGS:
+  HARDWARE, SAN FRANCISCO
+
+FOUNDERS (3):
+  • Yaroslav Azhnyuk
+    LinkedIn: https://www.linkedin.com/in/YaroslavAzhnyuk
+  • Andrey Klen
+    LinkedIn: https://www.linkedin.com/in/andreyklen
+  • Alex (Sasha) Neskin
+    LinkedIn: https://www.linkedin.com/in/alexneskin/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #9: FundersClub
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 415
+  • Batch: Summer 2012
+  • Team Size: 5
+  • Year Founded: 2012
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://fundersclub.com/
+  • YC URL: https://www.ycombinator.com/companies/fundersclub
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Online VC
+
+LONG DESCRIPTION:
+  FundersClub discovers, funds, and supports the world's best technology startups. FundersClub created the first online venture capital platform and invests starting at Seed, following on through Growth. The portfolio includes Coinbase, Instacart, Webflow, GitLab, Flexport, Rippling, and other category-defining companies.
+
+TAGS:
+  FINTECH, MARKETPLACE, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Alex Mittal
+    LinkedIn: https://www.linkedin.com/in/alexandermittal/
+  • Boris Silver
+    LinkedIn: https://www.linkedin.com/in/borismsilver/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #10: Bits to Atoms
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29982
+  • Batch: Summer 2024
+  • Team Size: 3
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://bitstoatoms.com/
+  • YC URL: https://www.ycombinator.com/companies/bits-to-atoms
+  • LinkedIn: https://www.linkedin.com/company/bits-to-atoms-incorporated/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Match job seekers to roles at deep technology startups.
+
+LONG DESCRIPTION:
+  Filling roles at deep technology startups with very specialized requirements is extremely difficult.
+
+We streamline this process by matching job seekers to roles and fill skill gaps where necessary.
+
+FOUNDERS (2):
+  • John Robison
+    LinkedIn: https://www.linkedin.com/in/john-robison-b891a7303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  • Shaashwat Sharma
+    LinkedIn: https://www.linkedin.com/in/shaashwat-sharma-b0a516195
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #11: Cognito
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 728
+  • Batch: Summer 2014
+  • Team Size: 12
+  • Year Founded: 2013
+  • Status: ACQUIRED
+  • Location: Palo Alto
+  • Website: https://cognitohq.com
+  • YC URL: https://www.ycombinator.com/companies/cognito
+  • LinkedIn: https://www.linkedin.com/company/cognitohq/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Frictionless, modern identity verification that starts with just a…
+
+LONG DESCRIPTION:
+  Cognito is the highest converting ID verification system on the market. By starting with just a user's phone number, Cognito can verify their name, date of birth, address, phone, and Social Security Number. The strong link formed between a user and their phone number builds trust while reducing friction.
+
+TAGS:
+  FINTECH, B2B, IDENTITY, PALO ALTO
+
+FOUNDERS (3):
+  • Alain Meier
+    LinkedIn: https://www.linkedin.com/in/alainmeier/
+  • John Backus
+    LinkedIn: None
+  • Christopher Morton
+    LinkedIn: https://linkedin.com/in/mortonch
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #12: Astro
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30202
+  • Batch: Winter 2025
+  • Team Size: 1
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://www.astroenergy.ai/
+  • YC URL: https://www.ycombinator.com/companies/astro
+  • LinkedIn: https://www.linkedin.com/company/astro-energy-inc/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The world’s first AI energy developer
+
+LONG DESCRIPTION:
+  Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.
+
+TAGS:
+  SOLAR-POWER, ENERGY, RENEWABLE-ENERGY, CLIMATETECH, AI
+
+FOUNDERS (1):
+  • Alex Fuster
+    LinkedIn: https://www.linkedin.com/in/alex-f-573560101/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #13: Imagine AI
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30938
+  • Batch: Fall 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://imagineai.me
+  • YC URL: https://www.ycombinator.com/companies/imagine-ai
+  • LinkedIn: https://www.linkedin.com/company/ai-imagine
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI agent that handles all of your B2B content needs
+
+LONG DESCRIPTION:
+  Imagine AI is a task-based agentic AI that becomes your company's Head of Content. For B2B service firms, this means turning your partners' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to write posts, our AI performs deep research to build a 100-page persona, captures their authentic voice, and automates content that books meetings at named accounts.
+
+Our college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher). The idea for Imagine AI came after a YC partner told us directly: founders and partners at B2B firms are experts at their jobs, but they consistently struggle to turn that expertise into effective marketing that drives revenue.
+
+We launched just 8 weeks ago and have already reached $14k in revenue from 30 paying users, including forward-thinking firms like Conduit (YC '24). The demand is clear, with a 250+ person waitlist. The results are even clearer: one of our first users recently landed a $5M deal that originated from a single post our AI created.
+
+We are displacing the expensive, low-ROI agency model by building the content OS for every LinkedIn-native B2B company. 
+
+To see how we automate your pipeline, book a demo at https://calendar.notion.so/meet/skyyang333/ghost 
+
+or connect with our CEO, Sky Yang, on LinkedIn: https://www.linkedin.com/in/skyyang/
+
+TAGS:
+  SAAS, B2B, SALES, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Neo Lee
+    LinkedIn: https://www.linkedin.com/in/neo-lky
+  • Sky Yang
+    LinkedIn: https://www.linkedin.com/in/skyyang/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #14: Sixtyfour
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30464
+  • Batch: Spring 2025
+  • Team Size: 3
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.sixtyfour.ai/
+  • YC URL: https://www.ycombinator.com/companies/sixtyfour
+  • LinkedIn: https://www.linkedin.com/company/sixtyfourai
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  AI Agents for Research
+
+LONG DESCRIPTION:
+  Instantly deploy custom research agents to source and enrich specialized professionals, company data, and insights directly into your existing systems.
+
+TAGS:
+  SALES, SALES-ENABLEMENT, OPERATIONS, AI, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Saarth Shah
+    LinkedIn: https://linkedin.com/in/saarthshah
+  • Christopher Price
+    LinkedIn: https://linkedin.com/in/christopher-price-59a24b178
+
+OPEN POSITIONS (2):
+  • Founding Engineer — Full-Stack @ San Francisco, CA, US
+    What you’ll do
+Build polished, fast product experiences in
+Next.js + TypeScript
+(design-quality UI, ...
+  • Founding Engineer — AI Research Agents (Full-Stack) @ San Francisco, CA, US
+    What you’ll do
+Design and ship agentic systems (tool calling, multi-agent workflows, structured outp...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #15: TetraScience
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 952
+  • Batch: Summer 2015
+  • Team Size: 100
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: Boston
+  • Website: https://www.tetrascience.com
+  • YC URL: https://www.ycombinator.com/companies/tetrascience
+  • LinkedIn: https://www.linkedin.com/company/tetrascience/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The only R&D data cloud for life sciences
+
+LONG DESCRIPTION:
+  TetraScience provides the world’s first and only R&D Data Cloud, with a mission to transform life sciences R&D, accelerate discovery, and improve human life. Scientists at global pharma and biotech organizations rely on our innovative Tetra Data Platform for easy access to centralized, harmonized, and actionable scientific data to accelerate their digital lab transformation. With best-in-class SaaS performance, a team of industry innovators, and excellent product/market fit, Tetra is positioned to become an iconic life sciences software company.
+
+TAGS:
+  SAAS, DATA-ENGINEERING, BOSTON
+
+FOUNDERS (1):
+  • Siping Wang
+    LinkedIn: https://www.linkedin.com/pub/siping-wang/47/A32/205
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #16: Dartboard Energy
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30201
+  • Batch: Winter 2025
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://dartboardenergy.com
+  • YC URL: https://www.ycombinator.com/companies/dartboard-energy
+  • LinkedIn: https://www.linkedin.com/company/dartboard-energy/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI Analyst for Electricity Markets
+
+LONG DESCRIPTION:
+  Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.
+
+TAGS:
+  ENERGY-STORAGE, B2B, ANALYTICS, AI, SAN FRANCISCO
+
+FOUNDERS (1):
+  • Rohun Ati
+    LinkedIn: https://www.linkedin.com/in/rohunati
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #17: Icarus
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30965
+  • Batch: Fall 2025
+  • Team Size: 6
+  • Year Founded: 2023
+  • Status: ACTIVE
+  • Location: Los Angeles, CA
+  • Website: https://www.icarus.one/
+  • YC URL: https://www.ycombinator.com/companies/icarus
+  • LinkedIn: https://www.linkedin.com/company/icarusindustries
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Stratospheric birds for defense
+
+LONG DESCRIPTION:
+  Always eyes-on intelligence and communications for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the sun, but never too close. Acting as a Cell Tower in the Sky, it’s the U-2 spy plane reborn in 2025, except each costs $100K and can be built by the thousands. The future of warfare is persistent swarms in the Stratosphere.
+
+TAGS:
+  SWARM-ROBOTICS, AEROSPACE, TELECOMMUNICATIONS, LOS ANGELES
+
+FOUNDERS (1):
+  • Henry Kwan
+    LinkedIn: https://linkedin.com/in/kwan-henry
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #18: Leaping AI
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30181
+  • Batch: Winter 2025
+  • Team Size: 8
+  • Year Founded: 2023
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.leapingai.com
+  • YC URL: https://www.ycombinator.com/companies/leaping-ai
+  • LinkedIn: https://www.linkedin.com/company/98079414/
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Voice AI agents to automate call centers (digital call center workers)
+
+LONG DESCRIPTION:
+  Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.
+
+We automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.
+
+For another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.
+
+TAGS:
+  B2B, AI, CONVERSATIONAL-AI, SAN FRANCISCO
+
+FOUNDERS (3):
+  • Kevin Wu
+    LinkedIn: https://www.linkedin.com/in/kevin-wu-452a6393/
+  • Shraey Bhatia
+    LinkedIn: https://www.linkedin.com/in/shraeybhatia
+  • Arkadiy Telegin
+    LinkedIn: https://www.linkedin.com/in/a-telegin
+
+OPEN POSITIONS (2):
+  • Part-time content intern (Student) @ Remote (US)
+    Shoot YouTube videos to explain / promote our product to a wide audience
+Write blog posts around the...
+  • Founding Full Stack Engineer @ San Francisco, CA, US
+    Mission
+Leaping AI does self-improving voice AI agents for business. We recently crossed 100,000 cal...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #19: Dataleap
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29807
+  • Batch: Summer 2024
+  • Team Size: 2
+  • Year Founded: 2023
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://dataleap.ai/
+  • YC URL: https://www.ycombinator.com/companies/dataleap
+  • LinkedIn: https://www.linkedin.com/company/dataleap-inc/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Perplexity for Consultants
+
+LONG DESCRIPTION:
+  Dataleap is a GenAI-powered market research platform for management consulting firms and corporate strategy departments. Think Perplexity for Consultants.
+
+We combine the natural language interface from chatGPT with trusted, verifiable market data from best-in-class data providers. We do the heavy lifting of aggregating all data sources into a single interface.
+
+We optimize the whole market research workflow from finding the right information, managing the internal knowledge base as well as sharing information with team members. 
+
+We already work with leading consultancies like BCG and industry giants like Siemens Energy and Uniper.
+
+TAGS:
+  GENERATIVE-AI, MARKETPLACE, MARKET-RESEARCH, ENTERPRISE-SOFTWARE, AI-ASSISTANT, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Jan Damm
+    LinkedIn: https://linkedin.com/in/jandamm
+  • Jan-Hendrik Ruettinger
+    LinkedIn: https://linkedin.com/in/janruettinger
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #20: Freestyle
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29976
+  • Batch: Summer 2024
+  • Team Size: 5
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.freestyle.sh
+  • YC URL: https://www.ycombinator.com/companies/freestyle
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  We run and deploy code your AI wrote
+
+LONG DESCRIPTION:
+  Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.
+
+During high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.
+
+After high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.
+
+They spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.
+
+Freestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.
+
+TAGS:
+  DEVELOPER-TOOLS, OPEN-SOURCE, WEB-DEVELOPMENT, CLOUD-COMPUTING, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Benjamin Swerdlow
+    LinkedIn: https://www.linkedin.com/in/benswerdlow/
+  • Jacob Zwang
+    LinkedIn: https://www.linkedin.com/in/jacobzwang/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #21: Design Arena
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30637
+  • Batch: Summer 2025
+  • Team Size: 3
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.designarena.ai/
+  • YC URL: https://www.ycombinator.com/companies/design-arena
+  • LinkedIn: https://www.linkedin.com/company/design-arena-ai/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  World's largest crowdsourced benchmark for AI-generated design
+
+TAGS:
+  ARTIFICIAL-INTELLIGENCE, DESIGN, CROWDSOURCING, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Grace Li
+    LinkedIn: https://www.linkedin.com/in/grace-li-721a4017b/
+  • Kamryn Ohly
+    LinkedIn: https://www.linkedin.com/in/kamrynohly/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #22: Invo
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30020
+  • Batch: Winter 2025
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://www.tryinvo.com/
+  • YC URL: https://www.ycombinator.com/companies/invo
+  • LinkedIn: https://www.linkedin.com/company/invo-ai
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI-Powered Collections Platform for Food Distributors
+
+FOUNDERS (1):
+  • Patrick Foster
+    LinkedIn: https://linkedin.com/in/patrickrfoster
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #23: Optimizely
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 221
+  • Batch: Winter 2010
+  • Team Size: 1500
+  • Year Founded: None
+  • Status: ACQUIRED
+  • Location: San Francisco
+  • Website: http://optimizely.com
+  • YC URL: https://www.ycombinator.com/companies/optimizely
+  • LinkedIn: https://www.linkedin.com/company/optimizely
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The first all-in-one operating system for marketing
+
+LONG DESCRIPTION:
+  At Optimizely, we're on a mission to help people unlock their digital potential. We do that by reinventing how marketing and product teams work to create and optimize digital experiences across all channels. With Optimizely One, our industry-first operating system for marketers, we offer teams flexibility and choice to build their stack their way with our fully SaaS, fully decoupled, and highly composable solution. We help companies around the world orchestrate their entire content lifecycle, monetize every digital experience and experiment across all customer touchpoints – all through Optimizely One, the leading digital experience platform that powers every phase of the marketing lifecycle through a single, AI-accelerated workflow. 
+
+Optimizely has nearly 1500 employees across our 21 global offices and has 700+ partners. We are proud to help more than 10,000 businesses, including H&M, PayPal, Zoom, and Toyota, enrich their customer lifetime value, increase revenue and grow their brands. At Optimizely, we live each day with a simple philosophy: large enough to serve, small enough to care. Learn more at optimizely.com.
+
+TAGS:
+  MARKETING, SAN FRANCISCO
+
+FOUNDERS (1):
+  • Pete Koomen
+    LinkedIn: https://www.linkedin.com/in/petekoomen/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #24: OctaveWealth
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 432
+  • Batch: Summer 2012
+  • Team Size: 2
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://octavewealth.com
+  • YC URL: https://www.ycombinator.com/companies/octavewealth
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The 401(k) that helps you grow
+
+LONG DESCRIPTION:
+  We’ll build the 401(k) you need to help attract and retain talent.
+
+OctaveWealth is operated by Quillu Inc, an SEC registered Investment Advisor.
+
+TAGS:
+  FINANCE, INVESTING, SAN FRANCISCO
+
+FOUNDERS (1):
+  • Rikin Shah
+    LinkedIn: https://linkedin.com/in/rik1shah
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #25: Autumn
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30086
+  • Batch: Summer 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://useautumn.com
+  • YC URL: https://www.ycombinator.com/companies/autumn
+  • LinkedIn: https://www.linkedin.com/company/useautumn
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Billing infrastructure for AI
+
+LONG DESCRIPTION:
+  Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.
+
+YC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. 
+
+As you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point.
+
+FOUNDERS (2):
+  • Ayush Rodrigues
+    LinkedIn: https://www.linkedin.com/in/ayushro/
+  • John Yeo
+    LinkedIn: https://www.linkedin.com/in/johnyeocx
+
+OPEN POSITIONS (1):
+  • Founding Engineer @ London, England, GB / San Francisco, CA, US
+    We’re looking for a generalist Founding Engineer who loves to
+build
+, loves
+developers
+and has
+excel...
+
+
+================================================================================
+DATA STRUCTURE REFERENCE (First Company)
+================================================================================
+
+Available fields:
+  • batch: str
+  • company_id: int
+  • company_image: str
+  • company_linkedin: str
+  • company_location: str
+  • company_name: str
+  • company_x: str
+  • founders: list
+  • is_hiring: bool
+  • long_description: str
+  • number_of_open_jobs: int
+  • open_jobs: NoneType
+  • primary_partner: str
+  • short_description: str
+  • status: str
+  • tags: list
+  • team_size: str
+  • url: str
+  • website: str
+  • year_founded: str

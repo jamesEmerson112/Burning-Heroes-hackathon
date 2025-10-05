@@ -1,0 +1,1042 @@
+[
+  {
+    "url": "https://www.ycombinator.com/companies/meteor",
+    "company_id": 30602,
+    "company_name": "Meteor",
+    "short_description": "An AI-Native Browser",
+    "long_description": "Meet Meteor: a Chrome-alternative that can actually do your work for you.\r\n\nWith agents getting better by the day (literally), we realize that it’s time to automate the boring, tedious work.\r\n\nWe use your browser session to empower agents to act like your personal assistants (ex. book a calendar, find cheaper flights, buy clothes on amazon etc.)\r\n\nSome of Meteor’s features:\r\n\n- Chat with any page\r\n- Integrate with popular apps like Gmail, Google Calendar, Twitter etc.\r\n- Browser agent to autonomously navigate the web and perform tasks\r\n- More coming soon!\r\n\nWe're excited to usher in a new era of browsing.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/463b3d216b98b96d985f820caa0a09e2c3c9ee44.png",
+    "tags": [
+      "ARTIFICIAL-INTELLIGENCE",
+      "CONSUMER",
+      "AI-ASSISTANT",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://browse.dev",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/browsedotdev",
+    "company_x": "https://x.com/browsedotdev",
+    "primary_partner": "Tyler Bosmeny",
+    "founders": [
+      {
+        "id": 1531197,
+        "name": "Pranav Madhukar",
+        "linkedin": "https://www.linkedin.com/in/pranav-madhukar-pcm/",
+        "x": "https://x.com/pranavcmadhukar"
+      },
+      {
+        "id": 1894304,
+        "name": "Farhan Khan",
+        "linkedin": "https://www.linkedin.com/in/farhankhan4",
+        "x": "https://x.com/moggrammer"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/algolia",
+    "company_id": 636,
+    "company_name": "Algolia",
+    "short_description": "A developer-friendly and enterprise-grade search API.",
+    "long_description": "Our mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs.\r\n\nAlgolia is the leading Search & Discovery API for websites and mobile apps. We help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time. More than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month.\r\n\nFounded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures. The team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com.\r\n\n---\r\nWe’re looking for talented, passionate people to build the world’s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity. \r\n\nWe're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/3957efb32806e40351fb432ce3c38ae6d22865b3.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "SAAS",
+      "B2B",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2014",
+    "website": "http://www.algolia.com",
+    "year_founded": "2012",
+    "team_size": "810",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/algolia/",
+    "company_x": "https://twitter.com/algolia",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 5628,
+        "name": "Nicolas Dessaigne",
+        "linkedin": "https://www.linkedin.com/in/nicolasdessaigne/",
+        "x": "https://twitter.com/dessaigne"
+      },
+      {
+        "id": 37582,
+        "name": "Julien Lemoine",
+        "linkedin": "https://linkedin.com/in/julienlemoine",
+        "x": "https://twitter.com/jlemoine_algo"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/gemnote",
+    "company_id": 871,
+    "company_name": "Gemnote",
+    "short_description": "Gemnote is the easiest way to design, create and send custom products.",
+    "long_description": "Gemnote creates custom merch, swag and gifts for the modern business. Our expert team helps you curate, source, warehouse, fulfill and ship your branded merchandise and company swag, so you don't have to lift a finger. Our clients love our full-service platform and they are some of the biggest companies in the world, including Airbnb, Google, Meta, Slack, Netflix and more.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/083acf84edb567678955a3853f652e2b1328fea3.png",
+    "tags": [
+      "E-COMMERCE",
+      "CUSTOMIZATION",
+      "SAN LEANDRO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://gemnote.com",
+    "year_founded": null,
+    "team_size": "40",
+    "company_location": "San Leandro, CA",
+    "company_linkedin": "https://www.linkedin.com/company/gemnote/",
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 12929,
+        "name": "Ashley Wong",
+        "linkedin": "https://www.linkedin.com/profile/view?id=48575772&trk=nav_responsive_tab_profile_pic",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/perspectives-health",
+    "company_id": 30778,
+    "company_name": "Perspectives Health",
+    "short_description": "AI Agent for Clinic EMRs",
+    "long_description": "Perspectives listens in on clinical sessions and completes admin for clinicians inside their EMR. Clinicians using Perspectives get half their time back, can see more clients, and can connect better with patients.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/d4d717434657a084785d53a7ab208f3a1b202dae.png",
+    "tags": [
+      "WORKFLOW-AUTOMATION",
+      "HEALTHCARE",
+      "MENTAL-HEALTH",
+      "HEALTHCARE-IT",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://perspectiveshealth.ai/",
+    "year_founded": "2024",
+    "team_size": "4",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/perspectives-health/",
+    "company_x": null,
+    "primary_partner": "Jared Friedman",
+    "founders": [
+      {
+        "id": 2329278,
+        "name": "Eshan Dosani",
+        "linkedin": "https://www.linkedin.com/in/eshan-dosani/",
+        "x": "https://x.com/EshanDosani"
+      },
+      {
+        "id": 1003771,
+        "name": "Kyle Hyun Woo Jung",
+        "linkedin": "https://www.linkedin.com/in/kyle-hyun-woo-jung-a06814180/",
+        "x": null
+      },
+      {
+        "id": 2281516,
+        "name": "Nicholas Kovalsky",
+        "linkedin": "https://www.linkedin.com/in/nicholaskovalsky/",
+        "x": "https://x.com/nickbuildin"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/humoniq",
+    "company_id": 30732,
+    "company_name": "Humoniq",
+    "short_description": "AI-Native BPO for travel & transport",
+    "long_description": "Humoniq is building the first AI-Native BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
+    "tags": [
+      "TRAVEL",
+      "AI",
+      "CONVERSATIONAL-AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://humoniq.ai",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/humoniq",
+    "company_x": "https://x.com/humoniq_ai",
+    "primary_partner": "Tyler Bosmeny",
+    "founders": [
+      {
+        "id": 33409,
+        "name": "Todd Sullivan",
+        "linkedin": "https://www.linkedin.com/in/todsul/",
+        "x": "https://x.com/todsul"
+      },
+      {
+        "id": 2538575,
+        "name": "Will Weber",
+        "linkedin": "https://www.linkedin.com/in/w-weber/",
+        "x": null
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 82295,
+        "title": "Senior AI Engineer",
+        "description_url": "https://www.ycombinator.com/companies/humoniq/jobs/k6BHhBD-senior-ai-engineer",
+        "description": "We are hiring a Senior AI Engineer to own our AI’s ability to understand, respond to, and act on user queries from the ground up. This is not a research role or a “prompt tinkering” side project. You will build agentic LLM systems that can connect to external tools and APIs, structure their reasoning, and execute actions reliably.\nYou’ll be hands-on with prompt engineering, LLM frameworks, and agent design, while also applying software engineering rigor to make these systems stable, scalable, and useful. The right candidate moves fast, learns new methods as the field shifts, and always drives toward business outcomes, not demos or academic novelty.\nWe don’t believe in overwork or equating hours with outcomes. What matters is results tied to business and customer outcomes—nothing else.\nThis is a hybrid role, 3–4 days per week in-office in Mission Viejo.\nWhat You’ll Do\nDesign and implement LLM-powered agents that can reason, decide, and act via connected APIs, databases, and external systems.\nOwn the prompting, fine-tuning, and orchestration that make these systems intelligent and usable.\nApply strong engineering principles (modularity, testing, observability) so the AI’s actions are reliable in production.\nContinuously scan the landscape for new frameworks, libraries, and techniques, and integrate what’s useful.\nCollaborate with product and leadership to ensure progress is tied directly to business results.\nDocument decisions and trade-offs, ensuring clarity for current and future teammates.\nProven ability to deliver usable systems under startup constraints: full ownership of outcomes, small teams, fast pivots, and delivering usable systems with limited resources.\nWork in a modified agile framework based on your direct input (no dogma or purist approach) with daily standups and project management coordinated between you, the COO, and two other engineers (frontend and backend).\nTake strategic and product guidance from a cofounder who will be in-office with you in Orange County. The COO supports your growth and ensures you have what you need to succeed, while the cofounders focus on product excellence\nYou'll occasionally join customer calls to hear feedback and problems directly from users.\nMust-Haves\nStrong, validated expertise in software engineering with expertise shipping production systems from beginning to end.\nDeep hands-on work with LLMs (OpenAI, Anthropic, open-source stacks, LangChain/LlamaIndex/transformers, etc.) and expertise in building agents using them.\nExperience building multi-step, tool-using agents that act across varied systems, not just single-action chatbots\nProven ability to pick up new technologies quickly and apply them pragmatically.\nAbility to turn messy, ambiguous problems into solvable projects, with clear scoping, regular updates, and visible progress for stakeholders\nExcellent communication: clearly defines projects, can explain assumptions, trade-offs, and progress clearly.\nWhat We Value\nWe hire for mental models, not buzzwords. The right candidate will embody:\nBias to Progress\n→ Keeps work moving, persistent in ambiguity, avoids getting stuck.\nBusiness Results First\n→ Prioritizes impact over complexity, identity, or “cool tech.”\nSimplicity Bias\n→ Builds the leanest path to the outcome, avoids overbuilding.\nOwnership\n→ Takes responsibility, integrates feedback, doesn’t deflect blame.\nAdaptability\n→ Learns new tools fast, evolves methods as the field shifts.\nCollaborative Pragmatism\n→ Can disagree respectfully, align quickly, and execute.\nNice-to-Haves\nExperience with retrieval-augmented generation (RAG) or vector DBs.\nExposure to evaluation frameworks for LLMs to ensure reliability scoring and reduce hallucinations.\nExperience in startups or lean environments where speed and iteration matter.\nCompensation and Growth\n$150,000 + Equity\nHealth, Dental and Vision Insurance + Dependents\nFour Weeks Paid Time Off (We try to encourage you to take time off)\nInterview Process\nAt Humoniq, we design hiring to be fair, predictive, and respectful of your time. You’ll have the chance to show what you can do on your own terms, choosing when and where, so you’re able to perform at your best.\nThe data is clear:\nresumes are one of the weakest predictors of job performance\n(Hunter & Schmidt’s meta-analysis, ~0.1–0.2 correlation). They’re noisy, biased toward pedigree, and reward formatting skills.\nThat’s why we combine structured interviews with research-backed assessments.\nFairness:\nInterviews can sometimes reward confidence over skill. Assessments give every candidate the same chance to show their abilities, leveling the playing field.\nEffectiveness:\nDecades of studies show assessments are stronger predictors of job success than interviews alone. They help us focus on real skills, not just first impressions.\nFor You:\nThis means you won’t be judged on resume, background, accent, or personality quirks, but on what really matters is your ability to do the work.\nOur entire process will take less than 8 hours, and will not require any ‘at home’ assessment from you. There will be an in person component as part of the last interview.",
+        "location": "Mission Viejo, CA, US",
+        "salary": "$150K",
+        "years_experience": "Any (new grads ok)"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/beluga-labs",
+    "company_id": 30438,
+    "company_name": "Beluga Labs",
+    "short_description": "Rippling for Content Creators",
+    "long_description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png",
+    "tags": [
+      "FINTECH",
+      "CREATOR-ECONOMY",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Spring 2025",
+    "website": "https://www.belugalabs.ai/",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/beluga-labs-ai/",
+    "company_x": "https://x.com/belugalabsai",
+    "primary_partner": "Dalton Caldwell",
+    "founders": [
+      {
+        "id": 2204818,
+        "name": "Fernando Young",
+        "linkedin": "https://www.linkedin.com/in/fernando-young-13b713166/",
+        "x": "https://x.com/ACKForeverYoung"
+      },
+      {
+        "id": 2210281,
+        "name": "Jack Swisher",
+        "linkedin": "https://www.linkedin.com/in/jack-swisher-77548a165/",
+        "x": "https://x.com/Jack__Swisher"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/terra-2",
+    "company_id": 29853,
+    "company_name": "Terra",
+    "short_description": "Terra is like Faire for custom goods",
+    "long_description": "Enter Terra, a new world of product building. Connect with suppliers, expedite sampling, and track production in real-time, removing the uncertainties of overseas manufacturing.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/e29636bebc1616780dfb5c53b76be0c6ea7607c5.png",
+    "tags": [
+      "MANUFACTURING",
+      "SUPPLY-CHAIN",
+      "PROCUREMENT",
+      "ENTERPRISE-SOFTWARE",
+      "NEW YORK"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://useterra.com/",
+    "year_founded": "2024",
+    "team_size": "6",
+    "company_location": "New York",
+    "company_linkedin": "https://www.linkedin.com/company/useterra",
+    "company_x": null,
+    "primary_partner": "Diana Hu",
+    "founders": [
+      {
+        "id": 1864416,
+        "name": "Lev Glushkovskii",
+        "linkedin": "https://www.linkedin.com/in/lev-glushkovskii/",
+        "x": null
+      },
+      {
+        "id": 1859401,
+        "name": "Dylan McFarland",
+        "linkedin": "https://www.linkedin.com/in/dylan-mcfarland/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/bitmovin",
+    "company_id": 960,
+    "company_name": "Bitmovin",
+    "short_description": "Powers OTT online video providers with video developer tools.",
+    "long_description": "Bitmovin has been a first mover in almost every significant development in online video, from building and deploying the world’s first (and fastest) commercial adaptive streaming (MPEG-DASH/HLS) HTML5 Player, to being the first to achieve 100x realtime encoding speeds in the cloud. Bitmovin provides HEVC as well as VP9 live streaming with 60FPS and 4K resolution, and built the first containerized video encoding solution with Docker and Kubernetes.\r\n\nBitmovin products are completely in-house developed, easy and fast to integrate and highly customizable. In combination with our great support, documentation and SLAs, this is a true enterprise offering.\r\n\nTo find out more about Bitmovin’s video infrastructure solutions, or about any individual products, contact sales@bitmovin.com, or visit our website: bitmovin.com",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/d22ccb72e758575588245bb8f517bbe35f7421e7.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "VIDEO",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://bitmovin.com",
+    "year_founded": null,
+    "team_size": "145",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/bitmovin/",
+    "company_x": "https://twitter.com/bitmovin",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 90510,
+        "name": "Stefan Lederer",
+        "linkedin": "http://at.linkedin.com/pub/stefan-lederer/25/236/2a1",
+        "x": null
+      },
+      {
+        "id": 90001,
+        "name": "Christian Timmerer",
+        "linkedin": "https://www.linkedin.com/in/christiantimmerer",
+        "x": "https://twitter.com/timse7"
+      },
+      {
+        "id": 89834,
+        "name": "Christopher Mueller",
+        "linkedin": "https://at.linkedin.com/pub/christopher-mueller/51/694/525",
+        "x": null
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 17025,
+        "title": "Sales Director",
+        "description_url": "https://www.ycombinator.com/companies/bitmovin/jobs/SPlTI7FBv-sales-director",
+        "description": "Use this link to apply directly:\nhttps://grnh.se/99d740c42\nBitmovin provides API based Software that helps developers around the world to solve the most complex video problems with a video player library that plays everywhere. Come join the team building innovative online video software for developers and content owners worldwide!\nWe’re looking for talented, passionate and inspired people who believe in the possibilities of video to tell compelling stories and want to enable video creation as well as consumption. Join us to innovate and lead the market for video encoding, playback on mobile and other devices, and analytics around user experiences.\nBitmovin is looking for a motivated sales executive with a background in B2B/B2D technology and/or SaaS with a strong track record of overachievement. As the Sales Director at Bitmovin, you will build relationships and close business with existing as well as new enterprise customers. The successful candidate is a results-oriented and self-motivated individual with an outgoing personality and comfortable with both technical and business concepts. In addition, we are searching for an energetic and organized self-starter who understands sales processes and can build relationships with the right decision-makers. You will be a key driver of revenue growth for the company and on the front lines for evangelizing our product to prospective users.\nIn this position, you will be working closely with the Sales and Business Development team to develop targeted strategies and messaging in order to drive opportunities for new business and get new leads. Outstanding communication skills are required, a willingness to go above and beyond both for Bitmovin as well as our customers.\nAs a Sales Director you will\nIdentify high-potential prospective customers and grow new revenue from businesses of all sizes\nBuild and maintain relationships with executives, operational teams and developers\nPresent the value of our solutions to the customers’ individual needs\nManage the full sales cycle from prospecting to close\nManage legal/procurement process to create scalable global agreements\nWork with internal departments to coordinate resources to make accounts successful\nTravel occasionally for conferences and customer meetings\nIt would be great if you have\n5+ years of B2B/B2D and/or SaaS sales experience in a revenue closing sales executive role\nExperience of selling streaming media solutions and/or video infrastructure to the major broadcasters\nAbility to understand the Bitmovin Platform and not only build great relationships with Technical and Business buyers, but transform the platform into Business Value for the customers\nResults driven while able to try new processes and iterate to scale a global sales engine - including lead generation, presentation, negotiation, and more\nStrong analytical, critical thinking and problem solving skills.\nExceptional communication skills – written and verbal\nPassion for technology and aptitude to learn new technologies\nKnowledge of technologies and applications such as Salesforce, Github, etc\nBachelor’s degree\nBitmovin’s Benefits\nWorking with an innovative, fast-growing and international team with low hierarchy\nOpportunity to make an impact on the multimedia industry, with target markets EU, US and APAC\nCompetitive salary\nFlexible work hours\nInvestment in growth and education\nNo routines, but new challenging projects with global impact\nRegular and fun team activities (hackathons, skiing days, …)\nChoose your own hardware\nThe opportunity to work for an exciting start-up, building innovative video solutions\n401k plan (US only)\nAbout Bitmovin\nBitmovin, a YCombinator company,  is a fast growing privately owned technology leader, located in San Francisco, CA and Klagenfurt, Austria.\nThe company was founded by the co-creators of international media standards like MPEG-DASH, that is used today by Netflix, Youtube, and others. Bitmovin is the technology leader in online video technologies such as cloud-based encoding, adaptive streaming players, 360°/VR streaming and performance analytics. Bitmovin is backed by top investors such as Atomico as well as industry leaders like the former VP Engineering of Netflix, former CTO of Cisco, founder of Unity3D, and many others. Bitmovin’s customers include the top media and technology companies worldwide, including Ooyala, RTL, Pro7Sat1, Bouygues Telecom, Cloudflare, Technicolor, Televisa, Zattoo and many others.\nWorking at Bitmovin is fast-paced, fun and challenging with colleagues and customers worldwide.\nBitmovin is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\nSTARTING TIME: Immediately\nEmpower your future and join us now!\nBitmovin does not accept unsolicited referrals or resumes from any source other than directly from candidates. The submission of referrals or resumes by anyone other than a candidate directly to Bitmovin will be deemed gratuitous, and the company will not be obligated or bound in any way to pay any fee if the candidate is hired.",
+        "location": "United States / Remote",
+        "salary": null,
+        "years_experience": "3+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/kontigo",
+    "company_id": 29820,
+    "company_name": "Kontigo",
+    "short_description": "USDC-Smart Neobank for Latinos.",
+    "long_description": "We’re building Kontigo, a USDC Smart Neobank for Latinos in the U.S. and Latin America.\r\n\nWe launched our Peer-to-Peer onramp 20 days ago and we’ve already had $540k in deposits, 10k active users and a +300k waitlist. \r\n\nThe founding team has built and scaled fintechs in Latam, and it’s ex-Venmo, Nubank, Rappi, MercadoLibre, Ualá, Platzi, and Yuno. \r\n\nWe’re already backed by DST Global, Soma Capital, Pioneer Fund, Transpose + 10 YC alums.\r\n\nSending money to Latin America is just as painful as holding it due to the region's fragmentation into 33 countries with 39 different currencies. \r\n\nOn one hand, cross-border payments to Latam are absurdly expensive (up to 20% per transaction). Conversely, over the past decade, currency depreciation across the region has become unsustainable. (some countries surpassing the trillion percent ). \r\n\nKontigo solves this with a USDC global wallet & a BTC savings account. \r\n\n- Like Venmo, but on-USDC.\r\n- Like Zelle, but for cross-border payments. No limits.\r\n- Like Nubank & Revolut, but without inflationary currencies. Bitcoin-backed.\r\n\nUser wallets are connected to an AI-private banker on WhatsApp to execute international USDC transactions.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://kontigo.lat/",
+    "year_founded": "2023",
+    "team_size": "10",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/kontigolatam/?viewAsMember=true",
+    "company_x": "https://x.com/kontigo_app",
+    "primary_partner": "Tom Blomfield",
+    "founders": [
+      {
+        "id": 1585542,
+        "name": "jesus alberto Castillo ferrer",
+        "linkedin": "https://www.linkedin.com/in/jesus-castillo-81a58b186/",
+        "x": "https://twitter.com/jecastillof"
+      },
+      {
+        "id": 489843,
+        "name": "Gino Guatavita",
+        "linkedin": "https://linkedin.com/in/gino-guatavita-7269139b",
+        "x": "https://twitter.com/GinoGuatavita"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 70394,
+        "title": "Founding Engineer",
+        "description_url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+        "description": "\"Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success\"\nYou gotta be in founder mode.\nNext.js web / React Native app. / Supabase, firebase, and Prisma. / Nest.js for WhatsApp / Open AI and Anthropic APIs for agents / Solidity and web3.js for Smart contracts. / A lot of Typescript.",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$40K - $120K",
+        "years_experience": "3+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/vendra",
+    "company_id": 29814,
+    "company_name": "Vendra",
+    "short_description": "Custom Parts, Manufactured in America 🇺🇸",
+    "long_description": "Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\nVisit www.vendra-marketplace.io and submit an RFQ today!",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://vendra-marketplace.io/",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/vendra-hq/",
+    "company_x": null,
+    "primary_partner": "David Lieb",
+    "founders": [
+      {
+        "id": 914508,
+        "name": "Shan Mohta",
+        "linkedin": "https://www.linkedin.com/in/shanmohta/",
+        "x": null
+      },
+      {
+        "id": 2050663,
+        "name": "Anish Bhardwaj",
+        "linkedin": "https://www.linkedin.com/in/anish-b-00109695/",
+        "x": null
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 79287,
+        "title": "Supplier Operations Lead",
+        "description_url": "https://www.ycombinator.com/companies/vendra/jobs/MQzSbxn-supplier-operations-lead",
+        "description": "About the founders 👨‍🔧👨‍💻\nAnish (CTO) built machine learning algorithms for one of the largest satellite datasets in the world at General Atomics, and was founding machine learning engineer at Ship Angel.\nShan (CEO) worked on next-gen hardware at Microsoft (HoloLens 2), Apple (Vision Pro), and designed most of the cameras on Skydio’s latest generation X10 drone, spending months working onsite with manufacturers across the US and Asia.\nAbout the Role 👨‍🚀\nAs Supplier Operations Lead, you’ll be the right hand to the CEO on all things supply in Vendra’s two-sided marketplace. You’ll own the workflows, processes, and relationships that power our manufacturing network, and help define the internal tools and product roadmap to scale it fast. This role is for someone with hands on experience in hardware and loves working directly with manufacturers and technical teams to solve real, physical problems.\nWhat you’ll do\nManage and support active supplier relationships to ensure reliable manufacturing, quality, and delivery across active customers and orders\nAct as a feedback loop between suppliers and engineering to prioritize product features that streamline operations for both sides of the marketplace\nDefine and track key metrics like supplier lead time, rejection rates, and responsiveness, and build reporting systems to monitor and improve performance\nWork directly with the technical team to ensure capacity planning and load balancing across Vendra’s supplier network, making sure supplier utilization is optimized\nContinuously scout and qualify new suppliers, especially in specialized or high-priority geographies or capabilities (ex: ITAR, aerospace, medtech, etc.)\nWork directly with customers and users to collect feedback and help define requirements on the product and supplier side of the marketplace\nWhat we’re looking for (and what makes you a strong fit)\nYou have a deep understanding of manufacturing processes and workflows (from quoting to DFM to production to inspections)\nYou have hands on experience with hardware manufacturing programs, either as a technical contributor (mechanical/electrical engineer) or as part of a supply chain or manufacturing ops team\nYou’re comfortable working directly with machine shops and contract manufacturers, including on-site visits, audits, and production troubleshooting\nYou’re comfortable as definition of this role changes, as you might be required to hop in and contribute to a sales call with the CEO or join a technical product review with the CTO\nYou know how software systems are built and can contribute meaningfully to product and feature discussions with engineers\nBonus: Experience as a mechanical or electrical hardware design engineer, especially in high-mix production environments\nSuper Bonus: Experience with AI tools to build automation and eliminate manual workflows to make your own life or work easier 😉",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "years_experience": "3+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/getcho",
+    "company_id": 30031,
+    "company_name": "Getcho",
+    "short_description": "The reliability platform for last-mile delivery",
+    "long_description": "Getcho is a local delivery platform for high-value goods. \r\n\nWe are building a high-reliability delivery network on top of high-volume, unreliable fleets, just like how TCP builds reliable end-to-end networking on top of an unreliable base network (IP).",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/b0bca661527cf93aad335c4ac4c75dfec9d20d7d.png",
+    "tags": [
+      "SAAS",
+      "DELIVERY",
+      "LOGISTICS",
+      "E-COMMERCE",
+      "RETAIL-TECH",
+      "NEW YORK"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2024",
+    "website": "https://getcho.app/",
+    "year_founded": "2022",
+    "team_size": "3",
+    "company_location": "New York",
+    "company_linkedin": "https://www.linkedin.com/company/getcho",
+    "company_x": null,
+    "primary_partner": "Dalton Caldwell",
+    "founders": [
+      {
+        "id": 429494,
+        "name": "Jack Considine",
+        "linkedin": "https://www.linkedin.com/in/johnpconsidine",
+        "x": null
+      },
+      {
+        "id": 2249712,
+        "name": "Mike Considine",
+        "linkedin": "https://www.linkedin.com/in/mike-considine-700172164",
+        "x": null
+      },
+      {
+        "id": 2249812,
+        "name": "Evandro Nadal",
+        "linkedin": "https://www.linkedin.com/in/evandronadal/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/sunfarmer",
+    "company_id": 896,
+    "company_name": "SunFarmer",
+    "short_description": "Reliable and affordable solar energy in developing countries.",
+    "long_description": "SunFarmer provides affordable solar energy for hospitals, schools, businesses, and farms in developing countries.\r\n\nIn many parts of the world, electricity is unavailable, unstable, or extremely expensive. Yet reliable electricity is critical for high quality healthcare, modern education, economic development, and improved agricultural productivity. \r\n\nLearn more at sunfarmer.org",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/eee49613f2a6fc2f2eda54599ee09dc7c3daee88.png",
+    "tags": [
+      "SOLAR-POWER",
+      "CLIMATE"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://sunfarmer.org",
+    "year_founded": null,
+    "team_size": "15",
+    "company_location": "Kathmandu, Nepal",
+    "company_linkedin": "https://www.linkedin.com/company/sunfarmer/",
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 77140,
+        "name": "Andy Moon",
+        "linkedin": "https://www.linkedin.com/in/andymoonfuture/",
+        "x": "https://twitter.com/andymoonsun"
+      },
+      {
+        "id": 83304,
+        "name": "Jason Gray",
+        "linkedin": "https://www.linkedin.com/in/jasondgray",
+        "x": "https://twitter.com/jasondgray"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/general-trajectory",
+    "company_id": 30276,
+    "company_name": "General Trajectory",
+    "short_description": "Reasoning models for robotics",
+    "long_description": "General Trajectory is building AI for the physical world.\r\n\nWe are training vision-language-action (VLA) models across different embodiments to automate valuable labor starting with palletization, sorting, picking, and packing.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/39af9ebada08269c20a6c0cbdecb740d7018d9bc.png",
+    "tags": [
+      "ROBOTICS",
+      "SUPPLY-CHAIN",
+      "AUTOMATION",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.generaltrajectory.com/",
+    "year_founded": "2024",
+    "team_size": "1",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://linkedin.com/company/generaltrajectory",
+    "company_x": "https://x.com/gentrajectory",
+    "primary_partner": "Harj Taggar",
+    "founders": [
+      {
+        "id": 1366241,
+        "name": "Joshua Belofsky",
+        "linkedin": "https://linkedin.com/in/joshua-belofsky-25328523b",
+        "x": "https://x.com/joshuabelofsky"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/zidisha",
+    "company_id": 633,
+    "company_name": "Zidisha",
+    "short_description": "Direct P2P lending across the international wealth divide.",
+    "long_description": "Zidisha is the world's first direct peer-to-peer lending service to bridge the international wealth divide, allowing individuals worldwide to lend to and communicate with borrowers in developing countries without local intermediaries.  The direct connection creates better transparency, more profit for the entrepreneurs and lenders, and greater wealth creation for the world's poorest communities.  We've been featured in numerous press and media for our groundbreaking work in using internet and mobile phone technologies to connect entrepreneurs in some of the world's most isolated and impoverished places with the international peer-to-peer lending market.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/2235e108f443f2f51f89eaa9dbc94cb68d765e51.png",
+    "tags": [
+      "FINTECH",
+      "MARKETPLACE",
+      "COMMUNITY",
+      "CROWDFUNDING"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2014",
+    "website": "https://www.zidisha.org",
+    "year_founded": "2009",
+    "team_size": "1",
+    "company_location": "Sterling, VA",
+    "company_linkedin": null,
+    "company_x": "https://twitter.com/ZidishaInc",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 36608,
+        "name": "Julia Kurnia",
+        "linkedin": "https://www.linkedin.com/in/juliakurnia",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/archilabs",
+    "company_id": 30105,
+    "company_name": "ArchiLabs",
+    "short_description": "AI Copilot for Architects",
+    "long_description": "ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.\r\n\nBrian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.\r\n\nAs AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
+    "tags": [
+      "ARTIFICIAL-INTELLIGENCE",
+      "SAAS",
+      "CONSTRUCTION",
+      "B2B",
+      "PROPTECH",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2024",
+    "website": "https://archilabs.ai",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/archilabs-ai/",
+    "company_x": null,
+    "primary_partner": "Nicolas Dessaigne",
+    "founders": [
+      {
+        "id": 293312,
+        "name": "Brian Bakerman",
+        "linkedin": "https://linkedin.com/in/brianbakerman",
+        "x": null
+      },
+      {
+        "id": 1169688,
+        "name": "William Meng",
+        "linkedin": "https://www.linkedin.com/in/william-meng/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/astro",
+    "company_id": 30202,
+    "company_name": "Astro",
+    "short_description": "The world’s first AI energy developer",
+    "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png",
+    "tags": [
+      "SOLAR-POWER",
+      "ENERGY",
+      "RENEWABLE-ENERGY",
+      "CLIMATETECH",
+      "AI"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.astroenergy.ai/",
+    "year_founded": "2024",
+    "team_size": "1",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/astro-energy-inc/",
+    "company_x": null,
+    "primary_partner": "Brad Flora",
+    "founders": [
+      {
+        "id": 2392441,
+        "name": "Alex Fuster",
+        "linkedin": "https://www.linkedin.com/in/alex-f-573560101/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/pixley-ai",
+    "company_id": 30931,
+    "company_name": "Pixley AI",
+    "short_description": "The first platform where parents & kids can co-create AI cartoon shows",
+    "long_description": "Pixley is revolutionizing early education. No more passive learning: lectures, worksheets, deskwork. Kids don’t just watch content – they create it. With Pixley, any drawing or picture becomes an animated character, and every episode is shaped by the child’s imagination.\r\n\nOn the flip side, parents have complete control over what their kids learn. They choose the academic or moral lesson each story teaches, making screen time both safe and educational. For the first time, children and parents have complete control of the media they consume.\r\n\nWe’re harnessing brand-new video gen technology that’s set to revolutionize how the world creates and learns. Generating animated, narrative-consistent content from a child’s input in real time demands breakthroughs in generative AI, safety, and personalization – and Pixley has cracked it.\r\n\nThe market opportunity is massive. Families already spend billions on streaming and educational media, but the content is one-size-fits-all. By giving kids a true voice in what they watch, while giving parents control, Pixley makes early education personal, fun, and effective.\r\n\nWe are college dropouts that have been building together for years, winning several hackathons and working with video gen along the way. We built Pixley after we saw the flood of low-quality, algorithmic AI content and knew that kids and parents deserved better.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png",
+    "tags": [
+      "AI-ENHANCED-LEARNING",
+      "GENERATIVE-AI",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2025",
+    "website": "https://pixleyai.com",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/108137882/admin/dashboard/",
+    "company_x": "https://x.com/PixleyAI",
+    "primary_partner": "David Lieb",
+    "founders": [
+      {
+        "id": 2396632,
+        "name": "Pranit Agrawal",
+        "linkedin": "https://linkedin.com/in/pranit-agrawal",
+        "x": "https://x.com/PranitAgrawal4"
+      },
+      {
+        "id": 2479306,
+        "name": "Krish Iyengar",
+        "linkedin": "https://www.linkedin.com/in/krish-iyengar/",
+        "x": "https://x.com/Krish5Iyengar"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/boost-robotics",
+    "company_id": 30509,
+    "company_name": "Boost Robotics",
+    "short_description": "Robots for the inspection and maintenance of data centers",
+    "long_description": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. \r\n\nThe surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands.\r\n\nWe save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/4ab11f23c518bbbd560df743f85f60218829e65f.png",
+    "tags": [
+      "ARTIFICIAL-INTELLIGENCE",
+      "HARD-TECH",
+      "HARDWARE",
+      "ROBOTICS",
+      "INFRASTRUCTURE",
+      "BOSTON"
+    ],
+    "status": "ACTIVE",
+    "batch": "Spring 2025",
+    "website": "https://www.boostrobotics.ai",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": "Boston",
+    "company_linkedin": "https://linkedin.com/company/boost-robotics",
+    "company_x": null,
+    "primary_partner": "Diana Hu",
+    "founders": [
+      {
+        "id": 973181,
+        "name": "Hardik Singh",
+        "linkedin": "https://www.linkedin.com/in/hardiksingh",
+        "x": null
+      },
+      {
+        "id": 2564407,
+        "name": "Hans Kumar",
+        "linkedin": "https://www.linkedin.com/in/kumarhans/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/stealth-worker",
+    "company_id": 978,
+    "company_name": "Stealth Worker",
+    "short_description": "Information Security (Cyber Security), Compliance and Privacy (GDPR &…",
+    "long_description": "We have hundreds of fully qualified and experienced contractors in Information Security, Cloud Security, Privacy and Compliance available at competitive hourly rates.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/f3a6dd3a9eb972ed76c351911a07f4bc57b6bba3.png",
+    "tags": [
+      "COMPLIANCE",
+      "PRIVACY",
+      "MENLO PARK"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2016",
+    "website": "https://www.stealthworker.com",
+    "year_founded": "2015",
+    "team_size": "5",
+    "company_location": "Menlo Park, CA",
+    "company_linkedin": null,
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 114203,
+        "name": "Ken Baylor",
+        "linkedin": "https://www.linkedin.com/in/kenbaylor",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/lanesurf",
+    "company_id": 30615,
+    "company_name": "Lanesurf",
+    "short_description": "Voice AI for booking freight",
+    "long_description": "Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.\r\n\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.\r\n\nWith each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/4d37647098f0e48b82775e4aeffec72627577735.png",
+    "tags": [
+      "ARTIFICIAL-INTELLIGENCE",
+      "B2B",
+      "LOGISTICS",
+      "SUPPLY-CHAIN",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://www.lanesurf.com/",
+    "year_founded": "2025",
+    "team_size": "4",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/lane-surf/",
+    "company_x": null,
+    "primary_partner": "Jon Xu",
+    "founders": [
+      {
+        "id": 1284872,
+        "name": "Pratham Bansal",
+        "linkedin": "https://www.linkedin.com/in/bansalpratham/",
+        "x": "https://x.com/pratham__bansal"
+      },
+      {
+        "id": 1694494,
+        "name": "Sarthak Singh Chauhan",
+        "linkedin": "https://www.linkedin.com/in/sarthak-singh-chauhan-a1942b209 ",
+        "x": "https://x.com/sarthakiitd"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/synth-3",
+    "company_id": 30125,
+    "company_name": "Synth",
+    "short_description": "We build Research Engineering Agents",
+    "long_description": "You share production/eval traces for your AI software and sync your code. Synth asynchronously runs experiments to develop, improve, and maintain your software and hands code/prompts/models off to your team. Designed for teams building vertical AI software/agents.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
+    "tags": [
+      "REINFORCEMENT-LEARNING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2024",
+    "website": "https://www.usesynth.ai",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/105503800",
+    "company_x": "https://x.com/UseSynth",
+    "primary_partner": "Pete Koomen",
+    "founders": [
+      {
+        "id": 2210691,
+        "name": "Josh Purtell",
+        "linkedin": "https://www.linkedin.com/in/joshua-purtell/",
+        "x": "https://x.com/JoshPurtell"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 3,
+    "open_jobs": [
+      {
+        "id": 77894,
+        "title": "Founding Full Stack Engineer",
+        "description_url": "https://www.ycombinator.com/companies/synth-3/jobs/gdCKihS-founding-full-stack-engineer",
+        "description": "As a Founding Full Stack Engineer, you’ll create a product interface for the platform and agent that will help engineers and teams improve and maintain their AI software through\nspecification engineering\n. Task-driven UX and monitoring visualization are familiar, but you’ll also need to build software that quickly and effectively communicates the vast amount of information baked into experiments, evaluations, and results.\nYou’ll have significant influence over product direction and the utmost autonomy.\nWhat you’ll be working on\n— Task management interfaces for the Research Engineer product.\n— Monitoring and specification interfaces to help customers manage and edit their software with Synth\n— Interactive agents\nWhat we’re looking for\n— Ability to ship consistently and quickly\n— Design sensibilities and ability to work effectively with designers\n— Clear thinking and a desire to create high-performance, functional software\n— Excitement for the prospect of designing new development patterns for AI software\nWhy join us\n— Live on the frontier of agent post-training, prompt optimization, SFT, RL, and code synthesis alongside a team that has been pushing the field for years\n— Shape how teams and engineers ship and maintain AI software with new patterns like specification-driven development.\n— Operate with full ownership and autonomy; your design and implementation choices set the standard for our user experience",
+        "location": "San Francisco, CA, US",
+        "salary": "$170K - $250K",
+        "years_experience": "3+ years"
+      },
+      {
+        "id": 77891,
+        "title": "Founding Forward Deployed AI/Product Engineer",
+        "description_url": "https://www.ycombinator.com/companies/synth-3/jobs/pL39jLO-founding-forward-deployed-ai-product-engineer",
+        "description": "As a Forward Deployed AI engineer, you’ll work with our most high-value users to ensure their software is properly integrated with the platform, our agent is succeeding at working on their codebase, and identifying important new features and capabilities for research and engineering to develop.\nYou’ll have significant influence over product direction and the utmost autonomy.\nYou’ll be working on\nIdentifying bottlenecks, iterating on the agent product and platform interface, and automating tools for doing so.\nOnboarding clients, assisting the agent in integrating client software into the platform, scoping out new tasks on which to train our agent.\nWhat we’re looking for\nCuriosity, intelligence, clear thinking and communication\nStrong ability to produce good code fast (half will be ephemeral, the other half handed off to research/eng)\nSubstantial practical experience using LLMs to generate production software.\nWhy join us\nLive on the frontier of agent post-training, across multiple fronts. Prompt optimization, SFT, RL, and code synthesis. Work with a team who’s been working on the topic for years.\nHelp companies across AI verticals deliver software they’re excited about and solve p0 accuracy and reliability problems for some of the best customers out there\nOperate with full ownership and autonomy\nAbout the interview\nInitial screener\nOSS take home assessment OR OSS code review\n45 min coding interview\nOnsite",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "years_experience": "Any (new grads ok)"
+      },
+      {
+        "id": 74582,
+        "title": "Founding AI Engineer",
+        "description_url": "https://www.ycombinator.com/companies/synth-3/jobs/dlTmXUF-founding-ai-engineer",
+        "description": "As a AI engineer, you’ll work across our stack to productionize, maintain, and scale our research engineering agent products and experiment software.\nYou’ll have significant influence over technical direction and full autonomy.\nYou’ll be working on\nPutting battle-tested learning algorithms into production.\nBuilding infrastructure for agent simulation, evaluation, and live code-synthesis.\nOwning the user-facing AI layer e.g. our Research Engineer agent, an AI assistant that helps the user review where their software is failing and merge in improved code/prompts/models.\nWhat we’re looking for\nTrack record of executing on projects quickly, taking full ownership of outcomes, and making trade-offs\nSubstantial practical experience using LLMs in products\nCuriosity and drive to solve new problems and implement the right product form factor for a novel offering.\nWhy join us\nLive on the frontier of agent post-training, across multiple fronts. Prompt optimization, SFT, RL, and code synthesis. Work with a team who’s been working on the topic for years.\nHelp companies across AI verticals deliver software they’re excited about and solve p0 accuracy and reliability problems for some of the best customers out there\nOperate with full ownership and autonomy",
+        "location": "San Francisco, CA, US",
+        "salary": "$170K - $250K",
+        "years_experience": "3+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/opusense-ai",
+    "company_id": 30467,
+    "company_name": "Opusense AI",
+    "short_description": "AI for Field Inspection Reports",
+    "long_description": "Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.\r\n\nCombined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.\r\n\nWhy hasn’t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.\r\n\nThe opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png",
+    "tags": [
+      "SAAS",
+      "CONSTRUCTION",
+      "B2B"
+    ],
+    "status": "ACTIVE",
+    "batch": "Spring 2025",
+    "website": "https://www.opusense.com/",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/opusense",
+    "company_x": null,
+    "primary_partner": "Nicolas Dessaigne",
+    "founders": [
+      {
+        "id": 1672839,
+        "name": "Roya Cody",
+        "linkedin": "https://www.linkedin.com/in/royacody/",
+        "x": null
+      },
+      {
+        "id": 1672226,
+        "name": "Michael Bacani",
+        "linkedin": "https://www.linkedin.com/in/michael-bacani/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/redcarpetup",
+    "company_id": 932,
+    "company_name": "RedCarpetUp",
+    "short_description": "Credit cards for Indians that banks cannot see",
+    "long_description": "RedCarpet issues credit cards to those that banks cannot see. Currently we are one of the largest issuers of credit lines to the new-to-credit customer in India.\r\nIn a population base of 800 million people with bank accounts, there are less than 40 million credit cards. \r\nBy building a fullstack SDK for card issuance, underwriting as well as holding capital & collection ops, we are looking to build the Capital One of India.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/183f0ec3e40c4ede1e9890d348891e13b1af9608.png",
+    "tags": [
+      "FINTECH",
+      "INDIA"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://redcarpetup.com",
+    "year_founded": null,
+    "team_size": "100",
+    "company_location": "Gurugram, India",
+    "company_linkedin": "https://www.linkedin.com/company/redcarpetup-com/about/",
+    "company_x": "https://twitter.com/redcarpetup",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 82821,
+        "name": "Kartik Venkataraman",
+        "linkedin": "https://www.linkedin.com/in/kartikvenkataraman1",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/font-awesome",
+    "company_id": 943,
+    "company_name": "Font Awesome",
+    "short_description": "Icons and social logos for your website.",
+    "long_description": "Add a line of code and get thousands of icons and social logos on your website instantly. Easy to set up, easy to use, and crazy powerful. Let us take care of the icons so you can get back to the important stuff.\r\n\nFont Awesome. Go make something Awesome.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/fa479320e3d153a191f13fca9e3c89b631a02350.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "SAAS",
+      "DESIGN-TOOLS",
+      "OPEN-SOURCE"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://fontawesome.com",
+    "year_founded": "2014",
+    "team_size": "17",
+    "company_location": "Bentonville, AR",
+    "company_linkedin": null,
+    "company_x": "https://twitter.com/fontawesome",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 83051,
+        "name": "Dave Gandy",
+        "linkedin": "https://linkedin.com/in/davegandy",
+        "x": "http://twitter.com/davegandy"
+      },
+      {
+        "id": 89004,
+        "name": "Travis Chase",
+        "linkedin": "http://www.linkedin.com/in/supercodepoet",
+        "x": "http://www.twitter.com/supercodepoet"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/sammy-labs",
+    "company_id": 30348,
+    "company_name": "SAMMY Labs",
+    "short_description": "Live, AI-powered graph of every possible click path in your software",
+    "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/9bdb570c43e3c58161a904790b035ac6647153c9.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.sammylabs.com",
+    "year_founded": "2024",
+    "team_size": "3",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/sammylabs",
+    "company_x": null,
+    "primary_partner": "Aaron Epstein",
+    "founders": [
+      {
+        "id": 2145857,
+        "name": "Joe Savidge",
+        "linkedin": "https://www.linkedin.com/in/josephsavidge",
+        "x": null
+      },
+      {
+        "id": 2420295,
+        "name": "Shav Vimalendiran",
+        "linkedin": "https://www.linkedin.com/in/shavvimalendiran/",
+        "x": "https://x.com/Shavtge"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 75908,
+        "title": "Founding Engineer",
+        "description_url": "https://www.ycombinator.com/companies/sammy-labs/jobs/gUpSF5h-founding-engineer",
+        "description": "Must be currently based in London (sorry we can't take folks moving to london in X months - you need to be based in London today). Unfortunately we cannot support visa sponsorship\nJDs are always too long - we prefer to chat in person! However, here are the essentials:\nAt SAMMY Labs we are building a new software paradigm that will one day [we hope] be as ubiquitous as having a git repo! SAMMY is live, AI-powered graph of every possible click path in our customers software, enabling us to automatically generate personalized onboarding, walkthroughs, and documentation that update instantly - but that's just the start. Check out\nwww.sammylabs.com\nfor more info.\nCompany status:\nWe've just completed YCombinator and raised a very healthy seed round from T1 investors and Angels.\nTop 5 launch in the batch! (\nhttps://www.ycombinator.com/launches/Mqy-sammy-labs-ai-customer-success-agents-your-users-delighted\n)\nIn just 3 months we have 10+ enterprise customers from series A all the way to decacorns!\nThe role/what we are looking for:\nWe are all builders and there's a lot to build! We love folks who build in their spare time so show us the cool stuff you have made. Practically, you're a scrappy dev and happy to hop on youtube/deep research to learn new things\nIdeally 2+ years experience in a software engineer role (new grads welcome but you need to have things you have personally built). We don't care what university you went to or where you've worked prior, the main thing is you learn fast.\nThis is a great role for someone who wants to learn the inner-workings of an extremely fast growing startup to one day take the plunge of your own\nSkills we favour but aren't a requirement, experience in/with:\nNextjs\nPython\nAWS infra\nLangchain/langgraph\nfastapi\nWait so it's a full-stack role? Sort of... If you're purely front-end or backend you need to show you are a beast at one of them - how you show us is up to you\nPay & Equity\nNot being transparent with pay & equity sucks, we know. Which is why there is no upper limit to either, come to us with an offer - if you think you're a 150k/yr dev just tell us why, and if we agree - that salary is yours. Same with equity.\nCulture & Team\nWe have overwhelming demand right now, we've had to move new customers to a waitlist... which means we work super hard. If you're past the late nights stage of your career that's totally understandable! We are all laser focused on building an entirely new software paradigm and that should excite you too!\nEveryone is autonomous, if you prefer to have a checklist of things to do then perhaps SAMMY isnt for you. You'll be setting your own roadmap.\nWe're ex-Palantir, ex-founders, ex-hedge fund & ex-team GB athlete (singular, only one us was an athlete, the rest of us were certainly not 🙂)\nBenefits:\nWe pay whatever you want - it's up to you to convince us you're worth it. That includes equity. We're well-funded and want to take the best folks so the salary should match!\nFree lunch & dinner / Josh will cook for you (eat at your own risk)\nWe do a group activity every week, not something lame like dinner - clay shooting, climbing, VR arcade - that kinda stuff.\nOur CEO's dog, Luffy, is unbelievably cute (you must be okay with dogs, he's a non-negotiable!)",
+        "location": "England, GB",
+        "salary": "£50K - £160K GBP",
+        "years_experience": "Any (new grads ok)"
+      }
+    ]
+  }
+]

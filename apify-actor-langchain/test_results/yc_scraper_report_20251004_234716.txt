@@ -1,0 +1,938 @@
+================================================================================
+Y COMBINATOR SCRAPER RESULTS
+================================================================================
+
+Timestamp: 2025-10-04 23:47:16
+Total Companies: 25
+Dataset URL: https://console.apify.com/storage/datasets/2uazuzx259L2LCHiA
+
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #1: Meteor
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30602
+  • Batch: Summer 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://browse.dev
+  • YC URL: https://www.ycombinator.com/companies/meteor
+  • LinkedIn: https://www.linkedin.com/company/browsedotdev
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  An AI-Native Browser
+
+LONG DESCRIPTION:
+  Meet Meteor: a Chrome-alternative that can actually do your work for you.
+
+With agents getting better by the day (literally), we realize that it’s time to automate the boring, tedious work.
+
+We use your browser session to empower agents to act like your personal assistants (ex. book a calendar, find cheaper flights, buy clothes on amazon etc.)
+
+Some of Meteor’s features:
+
+- Chat with any page
+- Integrate with popular apps like Gmail, Google Calendar, Twitter etc.
+- Browser agent to autonomously navigate the web and perform tasks
+- More coming soon!
+
+We're excited to usher in a new era of browsing.
+
+TAGS:
+  ARTIFICIAL-INTELLIGENCE, CONSUMER, AI-ASSISTANT, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Pranav Madhukar
+    LinkedIn: https://www.linkedin.com/in/pranav-madhukar-pcm/
+  • Farhan Khan
+    LinkedIn: https://www.linkedin.com/in/farhankhan4
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #2: Algolia
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 636
+  • Batch: Winter 2014
+  • Team Size: 810
+  • Year Founded: 2012
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: http://www.algolia.com
+  • YC URL: https://www.ycombinator.com/companies/algolia
+  • LinkedIn: https://www.linkedin.com/company/algolia/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  A developer-friendly and enterprise-grade search API.
+
+LONG DESCRIPTION:
+  Our mission is to make every search interaction meaningful & rewarding, through developer-friendly and enterprise-grade APIs.
+
+Algolia is the leading Search & Discovery API for websites and mobile apps. We help the most innovative companies across e-commerce, media and SaaS industries create powerful, relevant and scalable discovery experiences for their users. Unlike other solutions, our hosted platform reduces the complexities of building and scaling a fast, relevant digital experience and helps teams accelerate development time. More than 9,000 companies like Under Armour, Twitch, Periscope, Medium and Stripe rely on Algolia to manage 50+ billion search queries a month.
+
+Founded in 2012, we're backed by $184M in funding from Accel Partners, Alven Capital, Point Nine Capital and Storm Ventures. The team is headquartered in San Francisco with offices in Paris, London, New York, and Atlanta. To learn more, visit www.algolia.com.
+
+---
+We’re looking for talented, passionate people to build the world’s best search technology. As an ownership-driven company, we seek team members who thrive under autonomy and diversity. 
+
+We're committed to building an inclusive and diverse workplace. We care about each other and the world around us, and embrace talented people regardless of their race, age, ancestry, religion, sex, gender identity, sexual orientation, marital status, color, veteran status, disability and socioeconomic background
+
+TAGS:
+  DEVELOPER-TOOLS, SAAS, B2B, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Nicolas Dessaigne
+    LinkedIn: https://www.linkedin.com/in/nicolasdessaigne/
+  • Julien Lemoine
+    LinkedIn: https://linkedin.com/in/julienlemoine
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #3: Gemnote
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 871
+  • Batch: Summer 2015
+  • Team Size: 40
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: San Leandro, CA
+  • Website: http://gemnote.com
+  • YC URL: https://www.ycombinator.com/companies/gemnote
+  • LinkedIn: https://www.linkedin.com/company/gemnote/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Gemnote is the easiest way to design, create and send custom products.
+
+LONG DESCRIPTION:
+  Gemnote creates custom merch, swag and gifts for the modern business. Our expert team helps you curate, source, warehouse, fulfill and ship your branded merchandise and company swag, so you don't have to lift a finger. Our clients love our full-service platform and they are some of the biggest companies in the world, including Airbnb, Google, Meta, Slack, Netflix and more.
+
+TAGS:
+  E-COMMERCE, CUSTOMIZATION, SAN LEANDRO
+
+FOUNDERS (1):
+  • Ashley Wong
+    LinkedIn: https://www.linkedin.com/profile/view?id=48575772&trk=nav_responsive_tab_profile_pic
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #4: Perspectives Health
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30778
+  • Batch: Summer 2025
+  • Team Size: 4
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://perspectiveshealth.ai/
+  • YC URL: https://www.ycombinator.com/companies/perspectives-health
+  • LinkedIn: https://www.linkedin.com/company/perspectives-health/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI Agent for Clinic EMRs
+
+LONG DESCRIPTION:
+  Perspectives listens in on clinical sessions and completes admin for clinicians inside their EMR. Clinicians using Perspectives get half their time back, can see more clients, and can connect better with patients.
+
+TAGS:
+  WORKFLOW-AUTOMATION, HEALTHCARE, MENTAL-HEALTH, HEALTHCARE-IT, SAN FRANCISCO
+
+FOUNDERS (3):
+  • Eshan Dosani
+    LinkedIn: https://www.linkedin.com/in/eshan-dosani/
+  • Kyle Hyun Woo Jung
+    LinkedIn: https://www.linkedin.com/in/kyle-hyun-woo-jung-a06814180/
+  • Nicholas Kovalsky
+    LinkedIn: https://www.linkedin.com/in/nicholaskovalsky/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #5: Humoniq
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30732
+  • Batch: Summer 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://humoniq.ai
+  • YC URL: https://www.ycombinator.com/companies/humoniq
+  • LinkedIn: https://www.linkedin.com/company/humoniq
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  AI-Native BPO for travel & transport
+
+LONG DESCRIPTION:
+  Humoniq is building the first AI-Native BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.
+
+Our team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.
+
+TAGS:
+  TRAVEL, AI, CONVERSATIONAL-AI, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Todd Sullivan
+    LinkedIn: https://www.linkedin.com/in/todsul/
+  • Will Weber
+    LinkedIn: https://www.linkedin.com/in/w-weber/
+
+OPEN POSITIONS (1):
+  • Senior AI Engineer @ Mission Viejo, CA, US
+    We are hiring a Senior AI Engineer to own our AI’s ability to understand, respond to, and act on use...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #6: Beluga Labs
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30438
+  • Batch: Spring 2025
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.belugalabs.ai/
+  • YC URL: https://www.ycombinator.com/companies/beluga-labs
+  • LinkedIn: https://www.linkedin.com/company/beluga-labs-ai/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Rippling for Content Creators
+
+LONG DESCRIPTION:
+  The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.
+
+Beluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.
+
+TAGS:
+  FINTECH, CREATOR-ECONOMY, AI, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Fernando Young
+    LinkedIn: https://www.linkedin.com/in/fernando-young-13b713166/
+  • Jack Swisher
+    LinkedIn: https://www.linkedin.com/in/jack-swisher-77548a165/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #7: Terra
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29853
+  • Batch: Summer 2024
+  • Team Size: 6
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: New York
+  • Website: https://useterra.com/
+  • YC URL: https://www.ycombinator.com/companies/terra-2
+  • LinkedIn: https://www.linkedin.com/company/useterra
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Terra is like Faire for custom goods
+
+LONG DESCRIPTION:
+  Enter Terra, a new world of product building. Connect with suppliers, expedite sampling, and track production in real-time, removing the uncertainties of overseas manufacturing.
+
+TAGS:
+  MANUFACTURING, SUPPLY-CHAIN, PROCUREMENT, ENTERPRISE-SOFTWARE, NEW YORK
+
+FOUNDERS (2):
+  • Lev Glushkovskii
+    LinkedIn: https://www.linkedin.com/in/lev-glushkovskii/
+  • Dylan McFarland
+    LinkedIn: https://www.linkedin.com/in/dylan-mcfarland/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #8: Bitmovin
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 960
+  • Batch: Summer 2015
+  • Team Size: 145
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: http://bitmovin.com
+  • YC URL: https://www.ycombinator.com/companies/bitmovin
+  • LinkedIn: https://www.linkedin.com/company/bitmovin/
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Powers OTT online video providers with video developer tools.
+
+LONG DESCRIPTION:
+  Bitmovin has been a first mover in almost every significant development in online video, from building and deploying the world’s first (and fastest) commercial adaptive streaming (MPEG-DASH/HLS) HTML5 Player, to being the first to achieve 100x realtime encoding speeds in the cloud. Bitmovin provides HEVC as well as VP9 live streaming with 60FPS and 4K resolution, and built the first containerized video encoding solution with Docker and Kubernetes.
+
+Bitmovin products are completely in-house developed, easy and fast to integrate and highly customizable. In combination with our great support, documentation and SLAs, this is a true enterprise offering.
+
+To find out more about Bitmovin’s video infrastructure solutions, or about any individual products, contact sales@bitmovin.com, or visit our website: bitmovin.com
+
+TAGS:
+  DEVELOPER-TOOLS, VIDEO, SAN FRANCISCO
+
+FOUNDERS (3):
+  • Stefan Lederer
+    LinkedIn: http://at.linkedin.com/pub/stefan-lederer/25/236/2a1
+  • Christian Timmerer
+    LinkedIn: https://www.linkedin.com/in/christiantimmerer
+  • Christopher Mueller
+    LinkedIn: https://at.linkedin.com/pub/christopher-mueller/51/694/525
+
+OPEN POSITIONS (1):
+  • Sales Director @ United States / Remote
+    Use this link to apply directly:
+https://grnh.se/99d740c42
+Bitmovin provides API based Software that...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #9: Kontigo
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29820
+  • Batch: Summer 2024
+  • Team Size: 10
+  • Year Founded: 2023
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://kontigo.lat/
+  • YC URL: https://www.ycombinator.com/companies/kontigo
+  • LinkedIn: https://www.linkedin.com/company/kontigolatam/?viewAsMember=true
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  USDC-Smart Neobank for Latinos.
+
+LONG DESCRIPTION:
+  We’re building Kontigo, a USDC Smart Neobank for Latinos in the U.S. and Latin America.
+
+We launched our Peer-to-Peer onramp 20 days ago and we’ve already had $540k in deposits, 10k active users and a +300k waitlist. 
+
+The founding team has built and scaled fintechs in Latam, and it’s ex-Venmo, Nubank, Rappi, MercadoLibre, Ualá, Platzi, and Yuno. 
+
+We’re already backed by DST Global, Soma Capital, Pioneer Fund, Transpose + 10 YC alums.
+
+Sending money to Latin America is just as painful as holding it due to the region's fragmentation into 33 countries with 39 different currencies. 
+
+On one hand, cross-border payments to Latam are absurdly expensive (up to 20% per transaction). Conversely, over the past decade, currency depreciation across the region has become unsustainable. (some countries surpassing the trillion percent ). 
+
+Kontigo solves this with a USDC global wallet & a BTC savings account. 
+
+- Like Venmo, but on-USDC.
+- Like Zelle, but for cross-border payments. No limits.
+- Like Nubank & Revolut, but without inflationary currencies. Bitcoin-backed.
+
+User wallets are connected to an AI-private banker on WhatsApp to execute international USDC transactions.
+
+FOUNDERS (2):
+  • jesus alberto Castillo ferrer
+    LinkedIn: https://www.linkedin.com/in/jesus-castillo-81a58b186/
+  • Gino Guatavita
+    LinkedIn: https://linkedin.com/in/gino-guatavita-7269139b
+
+OPEN POSITIONS (1):
+  • Founding Engineer @ San Francisco, CA, US / Remote
+    "Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe ret...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #10: Vendra
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 29814
+  • Batch: Summer 2024
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://vendra-marketplace.io/
+  • YC URL: https://www.ycombinator.com/companies/vendra
+  • LinkedIn: https://www.linkedin.com/company/vendra-hq/
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Custom Parts, Manufactured in America 🇺🇸
+
+LONG DESCRIPTION:
+  Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. 
+
+Visit www.vendra-marketplace.io and submit an RFQ today!
+
+FOUNDERS (2):
+  • Shan Mohta
+    LinkedIn: https://www.linkedin.com/in/shanmohta/
+  • Anish Bhardwaj
+    LinkedIn: https://www.linkedin.com/in/anish-b-00109695/
+
+OPEN POSITIONS (1):
+  • Supplier Operations Lead @ San Francisco, CA, US
+    About the founders 👨‍🔧👨‍💻
+Anish (CTO) built machine learning algorithms for one of the largest satel...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #11: Getcho
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30031
+  • Batch: Fall 2024
+  • Team Size: 3
+  • Year Founded: 2022
+  • Status: ACTIVE
+  • Location: New York
+  • Website: https://getcho.app/
+  • YC URL: https://www.ycombinator.com/companies/getcho
+  • LinkedIn: https://www.linkedin.com/company/getcho
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The reliability platform for last-mile delivery
+
+LONG DESCRIPTION:
+  Getcho is a local delivery platform for high-value goods. 
+
+We are building a high-reliability delivery network on top of high-volume, unreliable fleets, just like how TCP builds reliable end-to-end networking on top of an unreliable base network (IP).
+
+TAGS:
+  SAAS, DELIVERY, LOGISTICS, E-COMMERCE, RETAIL-TECH, NEW YORK
+
+FOUNDERS (3):
+  • Jack Considine
+    LinkedIn: https://www.linkedin.com/in/johnpconsidine
+  • Mike Considine
+    LinkedIn: https://www.linkedin.com/in/mike-considine-700172164
+  • Evandro Nadal
+    LinkedIn: https://www.linkedin.com/in/evandronadal/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #12: SunFarmer
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 896
+  • Batch: Summer 2015
+  • Team Size: 15
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: Kathmandu, Nepal
+  • Website: http://sunfarmer.org
+  • YC URL: https://www.ycombinator.com/companies/sunfarmer
+  • LinkedIn: https://www.linkedin.com/company/sunfarmer/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Reliable and affordable solar energy in developing countries.
+
+LONG DESCRIPTION:
+  SunFarmer provides affordable solar energy for hospitals, schools, businesses, and farms in developing countries.
+
+In many parts of the world, electricity is unavailable, unstable, or extremely expensive. Yet reliable electricity is critical for high quality healthcare, modern education, economic development, and improved agricultural productivity. 
+
+Learn more at sunfarmer.org
+
+TAGS:
+  SOLAR-POWER, CLIMATE
+
+FOUNDERS (2):
+  • Andy Moon
+    LinkedIn: https://www.linkedin.com/in/andymoonfuture/
+  • Jason Gray
+    LinkedIn: https://www.linkedin.com/in/jasondgray
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #13: General Trajectory
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30276
+  • Batch: Winter 2025
+  • Team Size: 1
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.generaltrajectory.com/
+  • YC URL: https://www.ycombinator.com/companies/general-trajectory
+  • LinkedIn: https://linkedin.com/company/generaltrajectory
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Reasoning models for robotics
+
+LONG DESCRIPTION:
+  General Trajectory is building AI for the physical world.
+
+We are training vision-language-action (VLA) models across different embodiments to automate valuable labor starting with palletization, sorting, picking, and packing.
+
+TAGS:
+  ROBOTICS, SUPPLY-CHAIN, AUTOMATION, AI, SAN FRANCISCO
+
+FOUNDERS (1):
+  • Joshua Belofsky
+    LinkedIn: https://linkedin.com/in/joshua-belofsky-25328523b
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #14: Zidisha
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 633
+  • Batch: Winter 2014
+  • Team Size: 1
+  • Year Founded: 2009
+  • Status: ACTIVE
+  • Location: Sterling, VA
+  • Website: https://www.zidisha.org
+  • YC URL: https://www.ycombinator.com/companies/zidisha
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Direct P2P lending across the international wealth divide.
+
+LONG DESCRIPTION:
+  Zidisha is the world's first direct peer-to-peer lending service to bridge the international wealth divide, allowing individuals worldwide to lend to and communicate with borrowers in developing countries without local intermediaries.  The direct connection creates better transparency, more profit for the entrepreneurs and lenders, and greater wealth creation for the world's poorest communities.  We've been featured in numerous press and media for our groundbreaking work in using internet and mobile phone technologies to connect entrepreneurs in some of the world's most isolated and impoverished places with the international peer-to-peer lending market.
+
+TAGS:
+  FINTECH, MARKETPLACE, COMMUNITY, CROWDFUNDING
+
+FOUNDERS (1):
+  • Julia Kurnia
+    LinkedIn: https://www.linkedin.com/in/juliakurnia
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #15: ArchiLabs
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30105
+  • Batch: Fall 2024
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://archilabs.ai
+  • YC URL: https://www.ycombinator.com/companies/archilabs
+  • LinkedIn: https://www.linkedin.com/company/archilabs-ai/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI Copilot for Architects
+
+LONG DESCRIPTION:
+  ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.
+
+Brian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.
+
+As AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.
+
+TAGS:
+  ARTIFICIAL-INTELLIGENCE, SAAS, CONSTRUCTION, B2B, PROPTECH, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Brian Bakerman
+    LinkedIn: https://linkedin.com/in/brianbakerman
+  • William Meng
+    LinkedIn: https://www.linkedin.com/in/william-meng/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #16: Astro
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30202
+  • Batch: Winter 2025
+  • Team Size: 1
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://www.astroenergy.ai/
+  • YC URL: https://www.ycombinator.com/companies/astro
+  • LinkedIn: https://www.linkedin.com/company/astro-energy-inc/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The world’s first AI energy developer
+
+LONG DESCRIPTION:
+  Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.
+
+TAGS:
+  SOLAR-POWER, ENERGY, RENEWABLE-ENERGY, CLIMATETECH, AI
+
+FOUNDERS (1):
+  • Alex Fuster
+    LinkedIn: https://www.linkedin.com/in/alex-f-573560101/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #17: Pixley AI
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30931
+  • Batch: Fall 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://pixleyai.com
+  • YC URL: https://www.ycombinator.com/companies/pixley-ai
+  • LinkedIn: https://www.linkedin.com/company/108137882/admin/dashboard/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  The first platform where parents & kids can co-create AI cartoon shows
+
+LONG DESCRIPTION:
+  Pixley is revolutionizing early education. No more passive learning: lectures, worksheets, deskwork. Kids don’t just watch content – they create it. With Pixley, any drawing or picture becomes an animated character, and every episode is shaped by the child’s imagination.
+
+On the flip side, parents have complete control over what their kids learn. They choose the academic or moral lesson each story teaches, making screen time both safe and educational. For the first time, children and parents have complete control of the media they consume.
+
+We’re harnessing brand-new video gen technology that’s set to revolutionize how the world creates and learns. Generating animated, narrative-consistent content from a child’s input in real time demands breakthroughs in generative AI, safety, and personalization – and Pixley has cracked it.
+
+The market opportunity is massive. Families already spend billions on streaming and educational media, but the content is one-size-fits-all. By giving kids a true voice in what they watch, while giving parents control, Pixley makes early education personal, fun, and effective.
+
+We are college dropouts that have been building together for years, winning several hackathons and working with video gen along the way. We built Pixley after we saw the flood of low-quality, algorithmic AI content and knew that kids and parents deserved better.
+
+TAGS:
+  AI-ENHANCED-LEARNING, GENERATIVE-AI, AI, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Pranit Agrawal
+    LinkedIn: https://linkedin.com/in/pranit-agrawal
+  • Krish Iyengar
+    LinkedIn: https://www.linkedin.com/in/krish-iyengar/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #18: Boost Robotics
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30509
+  • Batch: Spring 2025
+  • Team Size: 2
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: Boston
+  • Website: https://www.boostrobotics.ai
+  • YC URL: https://www.ycombinator.com/companies/boost-robotics
+  • LinkedIn: https://linkedin.com/company/boost-robotics
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Robots for the inspection and maintenance of data centers
+
+LONG DESCRIPTION:
+  Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. 
+
+The surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands.
+
+We save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.
+
+TAGS:
+  ARTIFICIAL-INTELLIGENCE, HARD-TECH, HARDWARE, ROBOTICS, INFRASTRUCTURE, BOSTON
+
+FOUNDERS (2):
+  • Hardik Singh
+    LinkedIn: https://www.linkedin.com/in/hardiksingh
+  • Hans Kumar
+    LinkedIn: https://www.linkedin.com/in/kumarhans/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #19: Stealth Worker
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 978
+  • Batch: Winter 2016
+  • Team Size: 5
+  • Year Founded: 2015
+  • Status: ACTIVE
+  • Location: Menlo Park, CA
+  • Website: https://www.stealthworker.com
+  • YC URL: https://www.ycombinator.com/companies/stealth-worker
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Information Security (Cyber Security), Compliance and Privacy (GDPR &…
+
+LONG DESCRIPTION:
+  We have hundreds of fully qualified and experienced contractors in Information Security, Cloud Security, Privacy and Compliance available at competitive hourly rates.
+
+TAGS:
+  COMPLIANCE, PRIVACY, MENLO PARK
+
+FOUNDERS (1):
+  • Ken Baylor
+    LinkedIn: https://www.linkedin.com/in/kenbaylor
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #20: Lanesurf
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30615
+  • Batch: Summer 2025
+  • Team Size: 4
+  • Year Founded: 2025
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.lanesurf.com/
+  • YC URL: https://www.ycombinator.com/companies/lanesurf
+  • LinkedIn: https://www.linkedin.com/company/lane-surf/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Voice AI for booking freight
+
+LONG DESCRIPTION:
+  Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.
+
+Our self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.
+
+With each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.
+
+TAGS:
+  ARTIFICIAL-INTELLIGENCE, B2B, LOGISTICS, SUPPLY-CHAIN, SAN FRANCISCO
+
+FOUNDERS (2):
+  • Pratham Bansal
+    LinkedIn: https://www.linkedin.com/in/bansalpratham/
+  • Sarthak Singh Chauhan
+    LinkedIn: https://www.linkedin.com/in/sarthak-singh-chauhan-a1942b209 
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #21: Synth
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30125
+  • Batch: Fall 2024
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: San Francisco
+  • Website: https://www.usesynth.ai
+  • YC URL: https://www.ycombinator.com/companies/synth-3
+  • LinkedIn: https://www.linkedin.com/company/105503800
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  We build Research Engineering Agents
+
+LONG DESCRIPTION:
+  You share production/eval traces for your AI software and sync your code. Synth asynchronously runs experiments to develop, improve, and maintain your software and hands code/prompts/models off to your team. Designed for teams building vertical AI software/agents.
+
+TAGS:
+  REINFORCEMENT-LEARNING, SAN FRANCISCO
+
+FOUNDERS (1):
+  • Josh Purtell
+    LinkedIn: https://www.linkedin.com/in/joshua-purtell/
+
+OPEN POSITIONS (3):
+  • Founding Full Stack Engineer @ San Francisco, CA, US
+    As a Founding Full Stack Engineer, you’ll create a product interface for the platform and agent that...
+  • Founding Forward Deployed AI/Product Engineer @ San Francisco, CA, US
+    As a Forward Deployed AI engineer, you’ll work with our most high-value users to ensure their softwa...
+  • Founding AI Engineer @ San Francisco, CA, US
+    As a AI engineer, you’ll work across our stack to productionize, maintain, and scale our research en...
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #22: Opusense AI
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30467
+  • Batch: Spring 2025
+  • Team Size: 2
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://www.opusense.com/
+  • YC URL: https://www.ycombinator.com/companies/opusense-ai
+  • LinkedIn: https://www.linkedin.com/company/opusense
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  AI for Field Inspection Reports
+
+LONG DESCRIPTION:
+  Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.
+
+Combined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.
+
+Why hasn’t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.
+
+The opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.
+
+TAGS:
+  SAAS, CONSTRUCTION, B2B
+
+FOUNDERS (2):
+  • Roya Cody
+    LinkedIn: https://www.linkedin.com/in/royacody/
+  • Michael Bacani
+    LinkedIn: https://www.linkedin.com/in/michael-bacani/
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #23: RedCarpetUp
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 932
+  • Batch: Summer 2015
+  • Team Size: 100
+  • Year Founded: None
+  • Status: ACTIVE
+  • Location: Gurugram, India
+  • Website: http://redcarpetup.com
+  • YC URL: https://www.ycombinator.com/companies/redcarpetup
+  • LinkedIn: https://www.linkedin.com/company/redcarpetup-com/about/
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Credit cards for Indians that banks cannot see
+
+LONG DESCRIPTION:
+  RedCarpet issues credit cards to those that banks cannot see. Currently we are one of the largest issuers of credit lines to the new-to-credit customer in India.
+In a population base of 800 million people with bank accounts, there are less than 40 million credit cards. 
+By building a fullstack SDK for card issuance, underwriting as well as holding capital & collection ops, we are looking to build the Capital One of India.
+
+TAGS:
+  FINTECH, INDIA
+
+FOUNDERS (1):
+  • Kartik Venkataraman
+    LinkedIn: https://www.linkedin.com/in/kartikvenkataraman1
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #24: Font Awesome
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 943
+  • Batch: Summer 2015
+  • Team Size: 17
+  • Year Founded: 2014
+  • Status: ACTIVE
+  • Location: Bentonville, AR
+  • Website: http://fontawesome.com
+  • YC URL: https://www.ycombinator.com/companies/font-awesome
+  • LinkedIn: None
+  • Is Hiring: False
+
+SHORT DESCRIPTION:
+  Icons and social logos for your website.
+
+LONG DESCRIPTION:
+  Add a line of code and get thousands of icons and social logos on your website instantly. Easy to set up, easy to use, and crazy powerful. Let us take care of the icons so you can get back to the important stuff.
+
+Font Awesome. Go make something Awesome.
+
+TAGS:
+  DEVELOPER-TOOLS, SAAS, DESIGN-TOOLS, OPEN-SOURCE
+
+FOUNDERS (2):
+  • Dave Gandy
+    LinkedIn: https://linkedin.com/in/davegandy
+  • Travis Chase
+    LinkedIn: http://www.linkedin.com/in/supercodepoet
+
+
+────────────────────────────────────────────────────────────────────────────────
+Company #25: SAMMY Labs
+────────────────────────────────────────────────────────────────────────────────
+
+BASIC INFORMATION:
+  • ID: 30348
+  • Batch: Winter 2025
+  • Team Size: 3
+  • Year Founded: 2024
+  • Status: ACTIVE
+  • Location: None
+  • Website: https://www.sammylabs.com
+  • YC URL: https://www.ycombinator.com/companies/sammy-labs
+  • LinkedIn: https://www.linkedin.com/company/sammylabs
+  • Is Hiring: True
+
+SHORT DESCRIPTION:
+  Live, AI-powered graph of every possible click path in your software
+
+LONG DESCRIPTION:
+  SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.
+
+FOUNDERS (2):
+  • Joe Savidge
+    LinkedIn: https://www.linkedin.com/in/josephsavidge
+  • Shav Vimalendiran
+    LinkedIn: https://www.linkedin.com/in/shavvimalendiran/
+
+OPEN POSITIONS (1):
+  • Founding Engineer @ England, GB
+    Must be currently based in London (sorry we can't take folks moving to london in X months - you need...
+
+
+================================================================================
+DATA STRUCTURE REFERENCE (First Company)
+================================================================================
+
+Available fields:
+  • batch: str
+  • company_id: int
+  • company_image: str
+  • company_linkedin: str
+  • company_location: str
+  • company_name: str
+  • company_x: str
+  • founders: list
+  • is_hiring: bool
+  • long_description: str
+  • number_of_open_jobs: int
+  • open_jobs: NoneType
+  • primary_partner: str
+  • short_description: str
+  • status: str
+  • tags: list
+  • team_size: str
+  • url: str
+  • website: str
+  • year_founded: str

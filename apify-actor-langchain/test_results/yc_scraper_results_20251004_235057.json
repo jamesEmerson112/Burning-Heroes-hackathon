@@ -1,0 +1,1045 @@
+[
+  {
+    "url": "https://www.ycombinator.com/companies/teleport",
+    "company_id": 862,
+    "company_name": "Teleport",
+    "short_description": "The easiest, most secure way to access all your infrastructure",
+    "long_description": "Our open source Infrastructure Access Platform helps developers and security professionals to simplify secure access to servers, Kubernetes, internal web apps, databases, and cloud provider APIs across all environments.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/232b4ff716a738c3027603248f32b30a04836498.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "DEVSECOPS",
+      "NEXT-GEN-NETWORK-SECURITY",
+      "OAKLAND"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "https://goteleport.com",
+    "year_founded": "2015",
+    "team_size": "200",
+    "company_location": "Oakland, CA",
+    "company_linkedin": "https://www.linkedin.com/company/go-teleport/",
+    "company_x": "https://twitter.com/goteleport",
+    "primary_partner": "Andrew Miklas",
+    "founders": [
+      {
+        "id": 13839,
+        "name": "Ev Kontsevoy",
+        "linkedin": "https://www.linkedin.com/in/kontsevoy/",
+        "x": "https://twitter.com/kontsevoy"
+      },
+      {
+        "id": 17300,
+        "name": "Alexander Klizhentas",
+        "linkedin": null,
+        "x": null
+      },
+      {
+        "id": 26561,
+        "name": "Taylor Wakefield",
+        "linkedin": "https://www.linkedin.com/in/taylorwakefield/",
+        "x": "https://twitter.com/ktwakefield"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/clidey",
+    "company_id": 30468,
+    "company_name": "Clidey",
+    "short_description": "Documentation made for AI Agents",
+    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "SAAS",
+      "B2B",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Spring 2025",
+    "website": "https://clidey.com",
+    "year_founded": "2025",
+    "team_size": "3",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/clidey",
+    "company_x": "https://x.com/clideyofficial",
+    "primary_partner": "Diana Hu",
+    "founders": [
+      {
+        "id": 581232,
+        "name": "Hemang Kandwal",
+        "linkedin": "https://linkedin.com/in/hemangkandwal",
+        "x": "http://x.com/hemangkandwal"
+      },
+      {
+        "id": 1558575,
+        "name": "Anguel Hristozov",
+        "linkedin": "https://linkedin.com/in/ahristozov",
+        "x": "https://x.com/anguel_hh"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/givemetap",
+    "company_id": 764,
+    "company_name": "GiveMeTap",
+    "short_description": "We produce & sell stainless steel water bottles that enables people…",
+    "long_description": "GiveMeTap is a social enterprise. Our mission is to make clean drinking water available to everyone, everywhere.\r\n\nWe create stainless steel water bottles, and each bottle funds 5 years of clean water for someone in Africa. When you get a GiveMeTap bottle, you also have access to the free-water network of cafes and shops who give free tap water to people on the go. No questions, no hassle.\r\n\nWe build water projects in remote villages and elect a water committee to run the maintenance of the water. So far we have made an impact in Namibia, Malawi, and Ghana to bring clean water for the first time.\r\n\nWe like to think of this as ‘Water for You, Water for Everyone’.\r\n\nWe help awesome companies create custom bottles for their staff, customers, and events so that they can stay hydrated, reduce plastic waste and help fund water projects. Our partners include:\r\n\nDeloitte\r\nHSBC\r\nYCombinator\r\nGoogle\r\nTED\r\nFlexport\r\nLegal & General\r\nRichard Branson's The Lodge, Switzerland\r\nCambridge University \r\n\nWant to get your company involved? Visit http://bit.ly/2j2Ef64\r\n\nWater for you. Water for everyone.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/e12f171a4ea3c40c73ef3e8b77453a6deaec1f6e.png",
+    "tags": [
+      "SUSTAINABILITY"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2015",
+    "website": "http://givemetap.com",
+    "year_founded": "2011",
+    "team_size": "1",
+    "company_location": "London, United Kingdom",
+    "company_linkedin": null,
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 5484,
+        "name": "Edwin Broni-Mensah",
+        "linkedin": "https://www.linkedin.com/in/ebronimensah",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/truebill",
+    "company_id": 1005,
+    "company_name": "Truebill",
+    "short_description": "Live your best financial life",
+    "long_description": "Rocket Money (formerly Truebill) is a leading personal finance app that analyzes members' spending habits, identifies inefficiencies, and offers immediate methods to improve their financial health. It enables people to optimize their spending, manage subscriptions, lower their bills, and automatically set aside money to reach their savings goals. Truebill has saved members more than $100 million since 2016 and is headquartered in Silver Spring, Maryland, with offices in San Francisco. \r\n\nTruebill's mission is to empower people to live their best financial lives. Truebill offers members a unique understanding of their finances and a suite of valuable services that save them time and money - ultimately giving them a leg up on their financial journey. \r\n\nTruebill is backed by Accel, Bessemer Venture Partners, Eldridge Industries, and YCombinator.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/fae52e07d79df342dcfc28d120038d2083ae0679.png",
+    "tags": [
+      "FINTECH"
+    ],
+    "status": "ACQUIRED",
+    "batch": "Winter 2016",
+    "website": "https://www.truebill.com",
+    "year_founded": "2015",
+    "team_size": "225",
+    "company_location": "Silver Spring, MD",
+    "company_linkedin": "https://www.linkedin.com/company/rocketmoney/",
+    "company_x": "https://twitter.com/rocketmoneyapp",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 111265,
+        "name": "Yahya Mokhtarzada",
+        "linkedin": "https://www.linkedin.com/in/yahyamokhtarzada",
+        "x": null
+      },
+      {
+        "id": 99604,
+        "name": "Haroon Mokhtarzada",
+        "linkedin": "https://www.linkedin.com/in/haroonmokhtarzada/",
+        "x": "https://www.twitter.com/haroon"
+      },
+      {
+        "id": 111793,
+        "name": "Idris Mokhtarzada",
+        "linkedin": "https://www.linkedin.com/in/idrismokhtarzada",
+        "x": "https://twitter.com/idris"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/ironclad",
+    "company_id": 866,
+    "company_name": "Ironclad",
+    "short_description": "Digital contracting platform for legal teams.",
+    "long_description": "Contracts are business decisions trapped in administrative tasks. Ironclad is software that does all the administrative work better left for a robot, freeing legal teams to do more substantive work and drive business strategy. By automating contracting processes and extracting intelligence from contracts, Ironclad lets legal teams focus on legal work, rather than paperwork. Legal teams at companies like Gusto, HotelTonight, GoFundMe, Glassdoor, Procore use Ironclad to get their contracts done more efficiently and accurately, and to maintain a single source of truth regarding their contents.\r\n\nHeadquartered in San Francisco, Ironclad is backed by Accel, Greylock, SV Angel, Formation 8, and was incubated in Y Combinator. For more information, visit https://www.ironcladapp.com.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
+    "tags": [
+      "SAAS",
+      "LEGALTECH",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "http://ironcladapp.com",
+    "year_founded": "2014",
+    "team_size": "400",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/ironclad-inc-/",
+    "company_x": "https://twitter.com/ironclad_inc",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 8211,
+        "name": "Jason Boehmig",
+        "linkedin": "http://www.linkedin.com/in/jboehmig",
+        "x": null
+      },
+      {
+        "id": 7825,
+        "name": "Cai GoGwilt",
+        "linkedin": "https://www.linkedin.com/pub/cai-gogwilt/22/18a/77b",
+        "x": "https://twitter.com/gogwilt"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 3,
+    "open_jobs": [
+      {
+        "id": 65008,
+        "title": "Staff Product Designer",
+        "description_url": "https://www.ycombinator.com/companies/ironclad/jobs/H6eUNEC-staff-product-designer",
+        "description": "Ironclad is the #1 contract lifecycle management platform for innovative companies.  Every company, in every country, in every industry runs on contracts, but managing these contracts slows companies down and costs them millions of dollars. L’Oréal, Mastercard, OpenAI, and other leading innovators use Ironclad to collaborate and negotiate on contracts, accelerate contracting while maintaining compliance, and turn contracts into critical carriers of operational business intelligence. It’s the only platform flexible enough to handle every type of contract workflow, whether a sales agreement, an HR agreement or a complex NDA.\nIronclad is\nwriting the narrative\nthat shows how beautiful and functional contracting will change business. We’re a leader in the\nForrester Wave for Contract Lifecycle Management\n. We have been recognized as a\nFortune Great Place to Work\nfor four consecutive years. Our innovation and work culture have been recognized by\nGlassdoor's Best Places to Work 2023\n, Forbes’\n50 Most Promising AI Companies\n, Wing Venture Capital's\nEnterprise Tech 30\n, and Gartner's Magic Quadrant. We work in a highly collaborative environment, and strive to foster a positive, inclusive culture.  We’re backed by leading investors like Accel, Y Combinator, Sequoia, and BOND. For more information, visit\nwww.ironcladapp.com\nor follow us on\nLinkedIn\nand\nTwitter\n.\nAbout our design team:\nWe’re on a journey to redesign contracts. And, that means rethinking how people (and companies) form trust and work together. We're looking for imaginative product designers to help us challenge the status quo and redefine contracting.\nAs a software designer at Ironclad, you’ll use technology to shape, automate and modernize the end-to-end antiquated contracting process - from drafting through negotiation to signature and beyond. You’ll work with engineers and product managers to transform and humanize the nature of a contract - from paper to data, and from inaccessible to intuitive.\nAt Ironclad, we’re building a future where contracts aren't a 9-letter word; they are dynamic, intuitive experiences that transform how businesses cooperate in our modern world. This is an opportunity to make a dent, not only with a product, but by profoundly shifting the terms people use to work together.\nWhat you’ll do:\nAct as a guide (for anyone in the company) for how to deliver an intuitive user experience in our product.\nChampion our user by consistently representing their interests at every “table.”\nOrchestrate design process across multiple teams and projects at the same time.\nUtilize our usability lab to validate product designs with facts (not fluff).\nSynthesize a shared vision (not your own vision), and then visualize it.\nCollaborate all day, every day extensively with product managers and engineers.\nCommunicate through visual artifacts. That’s your superpower as a designer, and nobody else at the company has it.\nYou’ll do a lot of hands-on software/UI design for a complex and rich application. Important note: our design team is for do-ers, not just thinkers/collaborators.\nHelp us develop our design talent and culture. We have a flat organization where everyone co-owns and chips-in on this stuff. The more senior you are, the higher the expectations of contribution.\nAlways model good leadership at your core, and our company values.\nYou already have/are:\n+10 years of experience designing apps at a tech company.\nShipped exemplary work into a large market.\nA phenomenal UI designer; with evidence of lifting the UI craft of others.\nFluent with web, iOS, and Android UI design patterns.\nUnderstands how software works, and the ability to code is a plus.\nExcellent communication skills at all levels of a company.\nA player-coach, with evidence of fostering growth and development in others.\nA continuous learner who solicits feedback proactively.\nBenefits:\nCompetitive compensation\nHealth, dental, and vision insurance\n401k\nWellness reimbursement\nTake what you need vacation policy\nGenerous parental leave for both primary and secondary caregivers\nBase Salary Range:\n$189,000 – $231,000\nThe base salary range represents the minimum and maximum of the salary range for this position based at our San Francisco headquarters. The actual base salary offered for this position will depend on numerous factors, including individual proficiency, anticipated performance, and the location of the selected candidate. Our base salary is just one component of Ironclad’s competitive total rewards package, which also includes equity awards (a new hire grant, along with opportunities for additional awards throughout your tenure), competitive health and wellness benefits, and a commitment to career growth and development.\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+        "location": "San Francisco, CA / New York, NY, US / Remote (US)",
+        "salary": "$189K - $231K",
+        "years_experience": "6+ years"
+      },
+      {
+        "id": 60110,
+        "title": "Senior Software Engineer, AI",
+        "description_url": "https://www.ycombinator.com/companies/ironclad/jobs/rToqqLc-senior-software-engineer-ai",
+        "description": "Ironclad is the #1 contract lifecycle management platform for innovative companies. Every company, in every country, in every industry runs on contracts, but managing these contracts slows companies down and costs them millions of dollars. L’Oréal, Staples, Mastercard, and other leading innovators use Ironclad to collaborate and negotiate on contracts, accelerate contracting while maintaining compliance, and turn contracts into critical carriers of operational business intelligence. It’s the only platform flexible enough to handle every type of contract workflow, whether a sales agreement, an HR agreement or a complex NDA.\nIronclad is writing the narrative that shows how beautiful and functional contracting will change business. We’re a leader in the Forrester Wave for Contract Lifecycle Management. We have been recognized as a Fortune Great Place to Work for four consecutive years. Our innovation and work culture have been recognized by Glassdoor's Best Places to Work 2023, Forbes’ 50 Most Promising AI Companies, Wing Venture Capital's Enterprise Tech 30, and Gartner's Magic Quadrant. We’re backed by leading investors like Accel, Y Combinator, Sequoia, and BOND. For more information, visit\nwww.ironcladapp.com\nor follow us on LinkedIn and Twitter.\nIronclad is looking for a\nSenior AI Engineer\nto join our team and help revolutionize the way legal teams handle contracts. As a Senior AI Engineer at Ironclad, you will have the opportunity to work with the latest cutting-edge technologies, including the HuggingFace framework, the OpenAI APIs, and more. You will leverage these to build state-of-the-art models and services that extract valuable information from contracts and provide insights to our customers.\nYou will work closely with other teams, including design and product, to build new features in our app that enable our customers to handle contracts more efficiently and effectively. You will also collaborate with data engineering to build datasets that are used to train machine learning models.\nAs a\nSenior AI Engineer\n, you will play a critical role in building an AI platform that can serve fast predictions and scale to support high throughput and multiple models. You will explore the latest models and AI techniques, including generative AI, question and answering, visual understanding, and more.\nAt Ironclad, we are on a mission to power the world’s contracts, and you will play a pivotal role in making that mission a reality. If you are an experienced AI Engineer with strong coding fundamentals and a passion for working with cutting-edge technologies, we encourage you to join us on this exciting journey. We work in a highly collaborative environment and strive to foster a positive, inclusive culture. Join us and help us build the product that legal teams love!\nWhat you'll be doing\n:\nWork with product, data and engineering teams to build models and services that can ingest legal documents, extract key information and surface insights from these documents to our customers.\nDrive the technical vision for the team and leverage open source technologies as well as cloud services to build an enterprise grade machine learning platform.\n-Lead the design and implementation of backend services that can ingest legal documents and extract relevant information that our customers care about.\n-Drive the evolution of our ML platform, including building tooling to support model training, evaluation, inference serving, monitoring and alerting.\n-Work with our data engineering and product teams to identify training data sources, ETL pipelines, and labeling tasks of interest.\n-Use the latest ML frameworks and open source tools to develop new model training pipelines\n-Provide technical leadership for the engineering organization\n-Partner with the product teams to innovate on user experience and solve business problems by making AI accessible through APIs\nParticipate in interviews to hire new engineers into the team\nMentor and train other junior engineers\nMaintain all software built by being available to fix P0s and bugs when users report\nRequired skills\n:\nBS Degree in Computer Science or related field\nRequired (5+ years working with): Backend services, REST APIs, and Python\nRequired (2+ years): NLP (text classification, entity extraction, Q&A, document analysis)\nML model training, evaluation & serving\nDeep learning frameworks (pytorch, tensorflow)\nData processing & manipulation with Python (pandas, numpy)\nCloud services (azure, gcp, aws)\nGit or equivalent VCS\nNice to have\n:\nGPT or generative AI experience\nVertexAI\nDocker\nPDF and DOCX file format\nUsing & configuring CI/CD systems\nDatadog or equivalent\nExemplary coding practices with great focus on quality\nPassion for building and shipping products that customers love.\nStrong communication and collaboration skills.\nBenefits\n:\nHealth, dental, and vision insurance\n401k\nWellness reimbursement\nTake what you need vacation policy\nGenerous parental leave for both primary and secondary caregivers\nBase Salary Range: $126,000 - $175,000\nThe base salary range represents the minimum and maximum of the salary range for this position based at our San Francisco headquarters. The actual base salary offered for this position will depend on numerous factors, including individual proficiency, anticipated performance, and the location of the selected candidate. Our base salary is just one component of Ironclad’s competitive total rewards package, which also includes equity awards (a new hire grant, along with opportunities for additional awards throughout your tenure), competitive health and wellness benefits, and a commitment to career growth and development.\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+        "location": "San Francisco, CA, US / Indianapolis, IN, US / New York, NY, US / Remote (US)",
+        "salary": "$126K - $175K",
+        "years_experience": "3+ years"
+      },
+      {
+        "id": 59885,
+        "title": "Legal Engineer (Aka Implementation Engineer)",
+        "description_url": "https://www.ycombinator.com/companies/ironclad/jobs/XGeiq0M-legal-engineer-aka-implementation-engineer",
+        "description": "Ironclad is the #1 contract lifecycle management platform for innovative companies. Every company, in every country, in every industry runs on contracts, but managing these contracts slows companies down and costs them millions of dollars. L’Oréal, Staples, Mastercard, Dropbox, DoorDash, Snap Inc., and other leading innovators use Ironclad to collaborate and negotiate on contracts, accelerate contracting while maintaining compliance, and turn contracts into critical carriers of operational business intelligence. It’s the only platform flexible enough to handle every type of contract workflow, whether a sales agreement, an HR agreement, or a complex NDA.\nIronclad’s innovation and work culture has been recognized by Forbes’ 50 Most Promising AI Companies in 2021, Fortune’s Best Small & Medium Workplaces in 2021, Battery Ventures and Glassdoor’s 25 Highest-Rated Cloud Computing Company Employers, Fast Company’s 2020 Best Workplaces for Innovators, Glassdoor’s Best Machine Learning Startups, and Wing Venture Capital’s Enterprise Tech 30 List. Ironclad is backed by leading investors like Accel, Y Combinator, Sequoia, and BOND. For more information, visit\nwww.ironcladapp.com\nor follow us on LinkedIn and Twitter.\nAbout the Role\n:\nLegal Engineers are problem solvers first and foremost. They are responsible for supporting our customers with configuration work to help make their vision for their use of Ironclad a reality, as well as offering best practice guidance as part of our standard professional services packages. LEs then lead the customer through collaborative configuration of Ironclad's core product - automated workflows for contracting - which shape the way our customers handle contracts across their organization. Legal Engineers are product-centric, service-oriented and technologically fluent. They constantly solicit feedback from users, and iterate quickly with Core Engineers and Designers to improve the Ironclad product and deployment experience for customers over time.\nWho We’re Looking For\n:\nMission-oriented: You’re excited to work on a team that operates at the intersection of human talent and software, and want to put that passion to work in an industry that still skews heavily towards the human/manual work end of the spectrum. You want to work at a place where you can have outsized impact.\nExceptional communicator: You’re a strong verbal and written communicator. You can understand and empathize with people even if you have limited subject-matter knowledge of their area of expertise.\nTeam player: You can work effectively in teams of technical and non-technical individuals. You are highly generative when collaborating with diverse teams.\nIndependent: You can learn and drive outcomes with minimal supervision. You have a bias towards action, and gravitate towards environments where you have outsized influence on the success of outcomes for customers and colleagues. You are exceptionally good at making trade-offs based on incomplete data.\nWhat You’ll Be Doing\n:\nLeading 5-15 customer implementation simultaneously focused on delivering a best in class customer experience\nLeveraging your deep product expertise to share best practices on how your customers may maximize value from their investment in Ironclad\nGuiding customers through a collaborative configuration approach of setting up their Ironclad instance. You’ll be putting them in the driver’s seat and leading them through workflow configuration, systems set up, and program roll-out\nServing as the internal “Voice of Customer” by regularly sharing product feedback on how we may further our ability to deliver high-quality outcomes\nReporting on project status and blockers weekly to Professional Services leadership team\nSharing innovative ideas with peers and leadership on how to further enhance our thinking and focus on operational efficiency and innovation\nResponding to high-profile customer escalation in a way that inspires confidence and customer loyalty\nPrevious experience with the Ironclad solution and/or Legal Operations is a plus, but not a requirement\nBenefits\n:\nHealth, dental, and vision insurance\n401k\nWellness reimbursement\nTake what you need vacation policy\nGenerous parental leave for both primary and secondary caregivers\nBase Salary Range:\n$95,000-$136,000",
+        "location": "San Francisco, CA, US / Indianapolis, IN, US / New York, NY, US / Remote (US)",
+        "salary": "$96K - $136K",
+        "years_experience": "3+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/macadamia",
+    "company_id": 30260,
+    "company_name": "Macadamia",
+    "short_description": "AI Agents for Complex Engineering Projects",
+    "long_description": "Macadamia builds AI agents for complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/14d848dfe9773db91848e15d445887906f2df14e.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://macadamialabs.com",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/105566815/",
+    "company_x": "https://x.com/macadamialabs",
+    "primary_partner": "Aaron Epstein",
+    "founders": [
+      {
+        "id": 1605924,
+        "name": "Abel Van Steenweghen",
+        "linkedin": "https://www.linkedin.com/in/abelvs/",
+        "x": "https://x.com/avansteenweghen"
+      },
+      {
+        "id": 2227066,
+        "name": "Brecht Pierreux",
+        "linkedin": "https://www.linkedin.com/in/brecht-pierreux-54b327181/",
+        "x": "https://x.com/bpierreux"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 79875,
+        "title": "Founding Engineer (Full-Stack)",
+        "description_url": "https://www.ycombinator.com/companies/macadamia/jobs/JhBLKe5-founding-engineer-full-stack",
+        "description": "As a Founding Engineer you’ll have responsibility over:\nBuilding generalizable AI agents that can work inside of the Macadamia Platform.\nDeveloping and deploying workflows (front+back-end), in close contact with customers.\nTurning existing engineering tools into AI-agent tools.\nCreating SOTA agent architectures to process real-world engineering data.",
+        "location": "San Francisco, CA, US / Ghent, Flanders, BE",
+        "salary": "$80K - $160K",
+        "years_experience": "Any (new grads ok)"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/aptible",
+    "company_id": 651,
+    "company_name": "Aptible",
+    "short_description": "The No Infrastructure Platform as a Service",
+    "long_description": "At Aptible, we envision a world where developers achieve more with less infrastructure. We’re building the platform that empowers developers at companies of all stages of development to move beyond the traditional method of managing infrastructure—DIY with expert infrastructure and platform engineers on AWS, GCP, or Azure. We’ve done this through our secure, compliant, reliable, and scalable Platform as a Service that’s been used by thousand of developers, hundreds of companies, and dozens of publicly traded and unicorn companies since 2013.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "DEVSECOPS",
+      "DEVOPS",
+      "WEB-DEVELOPMENT",
+      "CLOUD-COMPUTING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2014",
+    "website": "https://www.aptible.com",
+    "year_founded": "2013",
+    "team_size": "25",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/aptible",
+    "company_x": "https://twitter.com/aptible",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 5722,
+        "name": "Frank Macreery",
+        "linkedin": "https://www.linkedin.com/in/fancyremarker",
+        "x": "https://twitter.com/fancyremarker"
+      },
+      {
+        "id": 430,
+        "name": "Chas Ballew",
+        "linkedin": "https://www.linkedin.com/in/chasballew/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/petcube",
+    "company_id": 995,
+    "company_name": "Petcube",
+    "short_description": "Petcube is on the mission to improve lives of pets and pet owners…",
+    "long_description": "Petcube is a company reimagining pet care, and using technology to keep people connected with their pets. Its first product, Petcube Camera, is an interactive pet monitor with real time video and built-in laser pointer. It allows pet owners to watch, talk to, and play with their pet from their smartphone, no matter where they are. \r\n\nFounded in Kyiv in 2013, Petcube was funded on Kickstarter and became one of the most successful crowdfunding pet products in history. Since graduating from the prestigious Y-Combinator incubation program, Petcube has gone on to launch two additional products, Petcube Play and Petcube Bites, as well as a cloud video recording service, Petcube Care. Petcube products are available online and in stores including Brookstone, Best Buy, and Petco.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/4465bafb8a4cbc6c32c43f81430c3a0b42fecf0f.png",
+    "tags": [
+      "HARDWARE",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2016",
+    "website": "http://petcube.com",
+    "year_founded": "2012",
+    "team_size": "51",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/petcube",
+    "company_x": "https://twitter.com/petcube",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 34644,
+        "name": "Yaroslav Azhnyuk",
+        "linkedin": "https://www.linkedin.com/in/YaroslavAzhnyuk",
+        "x": null
+      },
+      {
+        "id": 34645,
+        "name": "Andrey Klen",
+        "linkedin": "https://www.linkedin.com/in/andreyklen",
+        "x": "https://twitter.com/_klen"
+      },
+      {
+        "id": 39985,
+        "name": "Alex (Sasha) Neskin",
+        "linkedin": "https://www.linkedin.com/in/alexneskin/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/fundersclub",
+    "company_id": 415,
+    "company_name": "FundersClub",
+    "short_description": "Online VC",
+    "long_description": "FundersClub discovers, funds, and supports the world's best technology startups. FundersClub created the first online venture capital platform and invests starting at Seed, following on through Growth. The portfolio includes Coinbase, Instacart, Webflow, GitLab, Flexport, Rippling, and other category-defining companies.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/c061cb24a07575fbc87416275d710b7b6280df2f.png",
+    "tags": [
+      "FINTECH",
+      "MARKETPLACE",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2012",
+    "website": "https://fundersclub.com/",
+    "year_founded": "2012",
+    "team_size": "5",
+    "company_location": "San Francisco",
+    "company_linkedin": null,
+    "company_x": "https://twitter.com/fundersclub",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 31522,
+        "name": "Alex Mittal",
+        "linkedin": "https://www.linkedin.com/in/alexandermittal/",
+        "x": "https://twitter.com/mittal"
+      },
+      {
+        "id": 5651,
+        "name": "Boris Silver",
+        "linkedin": "https://www.linkedin.com/in/borismsilver/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/bits-to-atoms",
+    "company_id": 29982,
+    "company_name": "Bits to Atoms",
+    "short_description": "Match job seekers to roles at deep technology startups.",
+    "long_description": "Filling roles at deep technology startups with very specialized requirements is extremely difficult.\r\n\nWe streamline this process by matching job seekers to roles and fill skill gaps where necessary.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/7f51090d21264c3c8f1c3571351178efc467fc6b.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://bitstoatoms.com/",
+    "year_founded": "2024",
+    "team_size": "3",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/bits-to-atoms-incorporated/",
+    "company_x": null,
+    "primary_partner": "David Lieb",
+    "founders": [
+      {
+        "id": 2101669,
+        "name": "John Robison",
+        "linkedin": "https://www.linkedin.com/in/john-robison-b891a7303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "x": null
+      },
+      {
+        "id": 778384,
+        "name": "Shaashwat Sharma",
+        "linkedin": "https://www.linkedin.com/in/shaashwat-sharma-b0a516195",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/cognito",
+    "company_id": 728,
+    "company_name": "Cognito",
+    "short_description": "Frictionless, modern identity verification that starts with just a…",
+    "long_description": "Cognito is the highest converting ID verification system on the market. By starting with just a user's phone number, Cognito can verify their name, date of birth, address, phone, and Social Security Number. The strong link formed between a user and their phone number builds trust while reducing friction.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/a1000d5d5bee5c940de394e0841af070cfa6e903.png",
+    "tags": [
+      "FINTECH",
+      "B2B",
+      "IDENTITY",
+      "PALO ALTO"
+    ],
+    "status": "ACQUIRED",
+    "batch": "Summer 2014",
+    "website": "https://cognitohq.com",
+    "year_founded": "2013",
+    "team_size": "12",
+    "company_location": "Palo Alto",
+    "company_linkedin": "https://www.linkedin.com/company/cognitohq/",
+    "company_x": "https://twitter.com/getcognito",
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 43,
+        "name": "Alain Meier",
+        "linkedin": "https://www.linkedin.com/in/alainmeier/",
+        "x": "https://twitter.com/alain"
+      },
+      {
+        "id": 39450,
+        "name": "John Backus",
+        "linkedin": null,
+        "x": "https://twitter.com/backus"
+      },
+      {
+        "id": 12701,
+        "name": "Christopher Morton",
+        "linkedin": "https://linkedin.com/in/mortonch",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/astro",
+    "company_id": 30202,
+    "company_name": "Astro",
+    "short_description": "The world’s first AI energy developer",
+    "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/988eb2e2b20c2a99fe4d96b54932cdebea0632d4.png",
+    "tags": [
+      "SOLAR-POWER",
+      "ENERGY",
+      "RENEWABLE-ENERGY",
+      "CLIMATETECH",
+      "AI"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.astroenergy.ai/",
+    "year_founded": "2024",
+    "team_size": "1",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/astro-energy-inc/",
+    "company_x": null,
+    "primary_partner": "Brad Flora",
+    "founders": [
+      {
+        "id": 2392441,
+        "name": "Alex Fuster",
+        "linkedin": "https://www.linkedin.com/in/alex-f-573560101/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/imagine-ai",
+    "company_id": 30938,
+    "company_name": "Imagine AI",
+    "short_description": "AI agent that handles all of your B2B content needs",
+    "long_description": "Imagine AI is a task-based agentic AI that becomes your company's Head of Content. For B2B service firms, this means turning your partners' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to write posts, our AI performs deep research to build a 100-page persona, captures their authentic voice, and automates content that books meetings at named accounts.\r\n\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher). The idea for Imagine AI came after a YC partner told us directly: founders and partners at B2B firms are experts at their jobs, but they consistently struggle to turn that expertise into effective marketing that drives revenue.\r\n\nWe launched just 8 weeks ago and have already reached $14k in revenue from 30 paying users, including forward-thinking firms like Conduit (YC '24). The demand is clear, with a 250+ person waitlist. The results are even clearer: one of our first users recently landed a $5M deal that originated from a single post our AI created.\r\n\nWe are displacing the expensive, low-ROI agency model by building the content OS for every LinkedIn-native B2B company. \r\n\nTo see how we automate your pipeline, book a demo at https://calendar.notion.so/meet/skyyang333/ghost \r\n\nor connect with our CEO, Sky Yang, on LinkedIn: https://www.linkedin.com/in/skyyang/",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
+    "tags": [
+      "SAAS",
+      "B2B",
+      "SALES",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2025",
+    "website": "https://imagineai.me",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/ai-imagine",
+    "company_x": null,
+    "primary_partner": "Pete Koomen",
+    "founders": [
+      {
+        "id": 1051338,
+        "name": "Neo Lee",
+        "linkedin": "https://www.linkedin.com/in/neo-lky",
+        "x": "https://x.com/neo_lky"
+      },
+      {
+        "id": 1654391,
+        "name": "Sky Yang",
+        "linkedin": "https://www.linkedin.com/in/skyyang/",
+        "x": "https://x.com/skygodkingdom"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/sixtyfour",
+    "company_id": 30464,
+    "company_name": "Sixtyfour",
+    "short_description": "AI Agents for Research",
+    "long_description": "Instantly deploy custom research agents to source and enrich specialized professionals, company data, and insights directly into your existing systems.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
+    "tags": [
+      "SALES",
+      "SALES-ENABLEMENT",
+      "OPERATIONS",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Spring 2025",
+    "website": "https://www.sixtyfour.ai/",
+    "year_founded": "2025",
+    "team_size": "3",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/sixtyfourai",
+    "company_x": "https://x.com/sixtyfourai",
+    "primary_partner": "David Lieb",
+    "founders": [
+      {
+        "id": 804300,
+        "name": "Saarth Shah",
+        "linkedin": "https://linkedin.com/in/saarthshah",
+        "x": "https://x.com/saarth_"
+      },
+      {
+        "id": 937584,
+        "name": "Christopher Price",
+        "linkedin": "https://linkedin.com/in/christopher-price-59a24b178",
+        "x": null
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 2,
+    "open_jobs": [
+      {
+        "id": 80468,
+        "title": "Founding Engineer — Full-Stack",
+        "description_url": "https://www.ycombinator.com/companies/sixtyfour/jobs/OfSbI46-founding-engineer-full-stack",
+        "description": "What you’ll do\nBuild polished, fast product experiences in\nNext.js + TypeScript\n(design-quality UI, accessible components, responsive layouts).\nDesign clean backend contracts and APIs (\nFastAPI/Python\n) for workflows, jobs, billing, and auth.\nEvolve our\nworkflow engine\n(DAG/state machine): scheduling, retries/idempotency, rate limits, progress tracking, logs, and user-visible run history.\nShip data pipelines and background workers (Celery/queues), with strong observability and alerting.\nScale and harden the stack on\nAWS + Docker\n(ECS/EKS or similar), with caching (Redis), pagination, backpressure, and cost controls.\nImplement product features end-to-end: DB schema → API → UI, including tests and telemetry.\nContribute to billing (Stripe), permissions/RBAC, and realtime UX (SSE/WebSockets) for run status.\nMaintain a high bar for reliability, performance, and UX; instrument everything.\nMinimum requirements\nStrong backend skills in\nPython\n(FastAPI preferred): API design, testing, error handling, schema/versioning.\nExperience deploying/operating with\nDocker\nand a major cloud (AWS preferred: ECS/EKS/Lambda, SQS, CloudWatch).\nProven work on\nworkflow/job systems\n: queues, retries, idempotency keys, scheduling, and run histories.\nComfortable with\nPostgres\n(or MySQL) schema design and\nRedis\n(caching, rate limiting, locks).\nPerformance mindset: RSC/Server Actions, data-fetching patterns, bundle/TTFB tuning, DB query perf.\nProduction observability: logs, traces, metrics (e.g., Langfuse, OpenTelemetry, Sentry), and on-call pragmatism.\nSolid security hygiene (PII handling, secrets, JWT/session auth, CSRF/CORS, least-privilege access).\nNice to have\nNext.js App Router, RSC,\nServer Actions\n, edge/runtime primitives (Vercel/AWS CloudFront).\nPrisma/Drizzle\n;\ntRPC\nor\nGraphQL\n; Zod/JSON schema; feature flags/experimentation.\nRealtime UX (WebSockets/SSE), optimistic updates, background revalidation.\nCelery/RQ\n, event sourcing, or state-machine libs (e.g., Temporal, Dagster, Prefect, XState).\nStripe (subscriptions, metered usage, webhooks) and customer-visible billing pages.\nCI/CD (GitHub Actions), IaC (Terraform), and basic cost/perf dashboards.\nSearch/retrieval familiarity (OpenSearch/Elasticsearch) and simple relevance tuning.\nTesting: Playwright (e2e), Vitest/Jest, pytest; accessibility checks.",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "years_experience": "Any (new grads ok)"
+      },
+      {
+        "id": 80466,
+        "title": "Founding Engineer — AI Research Agents (Full-Stack)",
+        "description_url": "https://www.ycombinator.com/companies/sixtyfour/jobs/MeTMrLQ-founding-engineer-ai-research-agents-full-stack",
+        "description": "What you’ll do\nDesign and ship agentic systems (tool calling, multi-agent workflows, structured outputs) that reliably fetch, extract, and normalize data across the web and APIs.\nBuild and operate search/indexing pipelines on OpenSearch/Elasticsearch (schema design, analyzers, reindex/data migration strategies, relevance tuning).\nOwn robust web scraping: directory crawling, CAPTCHA handling, headless browsers, rotating proxies, anti-bot evasion, and backoff/retry policies.\nDevelop backend services in\nPython + FastAPI\nwith clean contracts and strong observability.\nScale workloads on\nAWS + Docker\n(batch/queue workers, autoscaling, fault tolerance, cost control).\nParallelize external API requests safely (rate limits, idempotency, circuit breakers, retries, dedupe).\nIntegrate third-party APIs for enrichment and search; model and cache responses; manage schema evolution.\nTransform and analyze data using\nPandas\n(or similar) for normalization, QA, and reporting.\nPitch in across the stack: billing (Stripe), and occasional front-end changes to ship end-to-end features.\nMinimum requirements\nHands-on experience with\nagentic architectures\n(tool calling, structured outputs/JSON, planning/execution loops) and prompt engineering.\nDeep knowledge of\nOpenSearch/Elasticsearch\n: index design, analyzers, ingestion pipelines, snapshots, rolling upgrades, and\nzero-downtime reindexing/data migrations\n.\nProven\nweb scraping\nexpertise: solving CAPTCHAs, session/auth flows, proxy rotation, stealth techniques, and legal/ethical constraints.\nAWS + Docker\nin production (at least two of: ECS/EKS, Lambda, SQS/SNS, Batch, Step Functions, CloudWatch).\nBuilding\nhigh-throughput\ndata/IO pipelines with concurrency (asyncio/multiprocessing), resilient retries, and rate-limit aware scheduling.\nIntegrating diverse\nexternal APIs\n(auth patterns, pagination, webhooks); designing stable interfaces and backfills.\nStrong data wrangling with\nPandas\nor equivalent; comfort with large CSV/Parquet workflows and memory/perf tuning.\nFamiliarity with\nStripe\n(subscriptions, metered billing, webhooks) and basic front-end changes (React/TypeScript or similar).\nExcellent ownership, product sense, and pragmatic debugging.\nNice to have\nEntity resolution/record linkage at scale (probabilistic matching, blocking, deduping).\nExperience with\nLangfuse\n, OpenTelemetry, or similar for tracing/evals; task queues (Celery/RQ), Redis, Postgres.\nSearch relevance (BM25/vector/hybrid), embeddings, and retrieval pipelines.\nPlaywright/Selenium, stealth browsers, anti-bot frameworks, CAPTCHA providers.\nCI/CD, infrastructure as code (Terraform), and cost/perf observability.\nSecurity & compliance basics for data handling and PII.",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "years_experience": "Any (new grads ok)"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/tetrascience",
+    "company_id": 952,
+    "company_name": "TetraScience",
+    "short_description": "The only R&D data cloud for life sciences",
+    "long_description": "TetraScience provides the world’s first and only R&D Data Cloud, with a mission to transform life sciences R&D, accelerate discovery, and improve human life. Scientists at global pharma and biotech organizations rely on our innovative Tetra Data Platform for easy access to centralized, harmonized, and actionable scientific data to accelerate their digital lab transformation. With best-in-class SaaS performance, a team of industry innovators, and excellent product/market fit, Tetra is positioned to become an iconic life sciences software company.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/ddb32b2efdb22265a0c610b84a66c92b4e545b61.png",
+    "tags": [
+      "SAAS",
+      "DATA-ENGINEERING",
+      "BOSTON"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2015",
+    "website": "https://www.tetrascience.com",
+    "year_founded": null,
+    "team_size": "100",
+    "company_location": "Boston",
+    "company_linkedin": "https://www.linkedin.com/company/tetrascience/",
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 87039,
+        "name": "Siping Wang",
+        "linkedin": "https://www.linkedin.com/pub/siping-wang/47/A32/205",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/dartboard-energy",
+    "company_id": 30201,
+    "company_name": "Dartboard Energy",
+    "short_description": "AI Analyst for Electricity Markets",
+    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-scale battery projects.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
+    "tags": [
+      "ENERGY-STORAGE",
+      "B2B",
+      "ANALYTICS",
+      "AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://dartboardenergy.com",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/dartboard-energy/",
+    "company_x": "https://x.com/dartboardenergy",
+    "primary_partner": "Jared Friedman",
+    "founders": [
+      {
+        "id": 44103,
+        "name": "Rohun Ati",
+        "linkedin": "https://www.linkedin.com/in/rohunati",
+        "x": "https://twitter.com/rohunati"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/icarus",
+    "company_id": 30965,
+    "company_name": "Icarus",
+    "short_description": "Stratospheric birds for defense",
+    "long_description": "Always eyes-on intelligence and communications for Defense. Icarus builds autonomous, solar-powered aircraft that fly at 60,000 feet for weeks at a time, above the clouds harnessing the power of the sun, but never too close. Acting as a Cell Tower in the Sky, it’s the U-2 spy plane reborn in 2025, except each costs $100K and can be built by the thousands. The future of warfare is persistent swarms in the Stratosphere.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
+    "tags": [
+      "SWARM-ROBOTICS",
+      "AEROSPACE",
+      "TELECOMMUNICATIONS",
+      "LOS ANGELES"
+    ],
+    "status": "ACTIVE",
+    "batch": "Fall 2025",
+    "website": "https://www.icarus.one/",
+    "year_founded": "2023",
+    "team_size": "6",
+    "company_location": "Los Angeles, CA",
+    "company_linkedin": "https://www.linkedin.com/company/icarusindustries",
+    "company_x": null,
+    "primary_partner": "Garry Tan",
+    "founders": [
+      {
+        "id": 816302,
+        "name": "Henry Kwan",
+        "linkedin": "https://linkedin.com/in/kwan-henry",
+        "x": "https://x.com/kingofstrato"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "company_id": 30181,
+    "company_name": "Leaping AI",
+    "short_description": "Voice AI agents to automate call centers (digital call center workers)",
+    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "tags": [
+      "B2B",
+      "AI",
+      "CONVERSATIONAL-AI",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.leapingai.com",
+    "year_founded": "2023",
+    "team_size": "8",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/98079414/",
+    "company_x": "https://x.com/leaping_ai",
+    "primary_partner": "Garry Tan",
+    "founders": [
+      {
+        "id": 1218980,
+        "name": "Kevin Wu",
+        "linkedin": "https://www.linkedin.com/in/kevin-wu-452a6393/",
+        "x": "https://x.com/kevinwu_hi"
+      },
+      {
+        "id": 1431043,
+        "name": "Shraey Bhatia",
+        "linkedin": "https://www.linkedin.com/in/shraeybhatia",
+        "x": null
+      },
+      {
+        "id": 2682699,
+        "name": "Arkadiy Telegin",
+        "linkedin": "https://www.linkedin.com/in/a-telegin",
+        "x": "https://x.com/akyshnik"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 2,
+    "open_jobs": [
+      {
+        "id": 81797,
+        "title": "Part-time content intern (Student)",
+        "description_url": "https://www.ycombinator.com/companies/leaping-ai/jobs/SSVJc4B-part-time-content-intern-student",
+        "description": "Shoot YouTube videos to explain / promote our product to a wide audience\nWrite blog posts around the topic of voice AI\nWrite Reddit posts around the topic of voice AI / promote Leaping\nWe are hiring a student, who is interested in working on this part-time next to school.",
+        "location": "Remote (US)",
+        "salary": "$1.5K / monthly",
+        "years_experience": null
+      },
+      {
+        "id": 73842,
+        "title": "Founding Full Stack Engineer",
+        "description_url": "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer",
+        "description": "Mission\nLeaping AI does self-improving voice AI agents for business. We recently crossed 100,000 calls per day, automate in some cases up to 70% of repetitive phone calls, whilst maintaining 90% customer satisfaction.\nWe work in-person out of SF and already support many mid-market and Enterprise customers on mission-critical phone workflows. We are backed by great investors, such as YC, Paul Graham and Nexus Venture Partners.\nYou will own features end-to-end from customer requests to their deployment, working within real-time low-latency constraints. You’ll also be a foundational part of how we build the culture at Leaping AI.\nDo not join if you are not ready to work hard.\nOutcomes\nOwn and deliver entire features + projects\nShip optimizations and refactors\nTalk to customers\nBuild things that delight customers\nCompetencies\nExperience with Typescript + Next.js or similar frontend framework\nExperience with Python + modern async patterns\nCommunication: You can clearly articulate what you’re thinking\nand\nfeeling\nCracked\nStartup Ready: You have a reason to be here and can make sacrifices for something uncertain\nFounder Juice: New ideas come from you, you build it yourself or annoy everyone until it’s done ;)\nQualifications:\nPrevious Founding/Senior/Staff/Principal Engineer\n1+ years of experience at company <100 ppl",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $220K",
+        "years_experience": "1+ years"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/dataleap",
+    "company_id": 29807,
+    "company_name": "Dataleap",
+    "short_description": "Perplexity for Consultants",
+    "long_description": "Dataleap is a GenAI-powered market research platform for management consulting firms and corporate strategy departments. Think Perplexity for Consultants.\r\n\nWe combine the natural language interface from chatGPT with trusted, verifiable market data from best-in-class data providers. We do the heavy lifting of aggregating all data sources into a single interface.\r\n\nWe optimize the whole market research workflow from finding the right information, managing the internal knowledge base as well as sharing information with team members. \r\n\nWe already work with leading consultancies like BCG and industry giants like Siemens Energy and Uniper.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/faee29cbea32c379ce896ec9fb7d1788061afc21.png",
+    "tags": [
+      "GENERATIVE-AI",
+      "MARKETPLACE",
+      "MARKET-RESEARCH",
+      "ENTERPRISE-SOFTWARE",
+      "AI-ASSISTANT",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://dataleap.ai/",
+    "year_founded": "2023",
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/dataleap-inc/",
+    "company_x": "https://x.com/dataleapHQ",
+    "primary_partner": "Harj Taggar",
+    "founders": [
+      {
+        "id": 1018869,
+        "name": "Jan Damm",
+        "linkedin": "https://linkedin.com/in/jandamm",
+        "x": "https://twitter.com/jh_damm"
+      },
+      {
+        "id": 233703,
+        "name": "Jan-Hendrik Ruettinger",
+        "linkedin": "https://linkedin.com/in/janruettinger",
+        "x": "https://twitter.com/jan_ruettinger"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/freestyle",
+    "company_id": 29976,
+    "company_name": "Freestyle",
+    "short_description": "We run and deploy code your AI wrote",
+    "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere.\r\n\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/3193d2e6673d05b7a76cddaa0bc355c6a2fd7e04.png",
+    "tags": [
+      "DEVELOPER-TOOLS",
+      "OPEN-SOURCE",
+      "WEB-DEVELOPMENT",
+      "CLOUD-COMPUTING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2024",
+    "website": "https://www.freestyle.sh",
+    "year_founded": "2024",
+    "team_size": "5",
+    "company_location": "San Francisco",
+    "company_linkedin": null,
+    "company_x": null,
+    "primary_partner": "Diana Hu",
+    "founders": [
+      {
+        "id": 800509,
+        "name": "Benjamin Swerdlow",
+        "linkedin": "https://www.linkedin.com/in/benswerdlow/",
+        "x": "https://x.com/benswerd"
+      },
+      {
+        "id": 1860855,
+        "name": "Jacob Zwang",
+        "linkedin": "https://www.linkedin.com/in/jacobzwang/",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/design-arena",
+    "company_id": 30637,
+    "company_name": "Design Arena",
+    "short_description": "World's largest crowdsourced benchmark for AI-generated design",
+    "long_description": null,
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png",
+    "tags": [
+      "ARTIFICIAL-INTELLIGENCE",
+      "DESIGN",
+      "CROWDSOURCING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://www.designarena.ai/",
+    "year_founded": "2025",
+    "team_size": "3",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/design-arena-ai/",
+    "company_x": "https://x.com/designarena_ai",
+    "primary_partner": "Ankit Gupta",
+    "founders": [
+      {
+        "id": 876530,
+        "name": "Grace Li",
+        "linkedin": "https://www.linkedin.com/in/grace-li-721a4017b/",
+        "x": "https://x.com/grx_xce"
+      },
+      {
+        "id": 2782978,
+        "name": "Kamryn Ohly",
+        "linkedin": "https://www.linkedin.com/in/kamrynohly/",
+        "x": "https://x.com/kamrynohly"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/invo",
+    "company_id": 30020,
+    "company_name": "Invo",
+    "short_description": "AI-Powered Collections Platform for Food Distributors",
+    "long_description": null,
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/a1fd3feaabb1bf7c02242dc68b14d1871864599f.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Winter 2025",
+    "website": "https://www.tryinvo.com/",
+    "year_founded": "2024",
+    "team_size": "2",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/invo-ai",
+    "company_x": null,
+    "primary_partner": "Jared Friedman",
+    "founders": [
+      {
+        "id": 1524921,
+        "name": "Patrick Foster",
+        "linkedin": "https://linkedin.com/in/patrickrfoster",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/optimizely",
+    "company_id": 221,
+    "company_name": "Optimizely",
+    "short_description": "The first all-in-one operating system for marketing",
+    "long_description": "At Optimizely, we're on a mission to help people unlock their digital potential. We do that by reinventing how marketing and product teams work to create and optimize digital experiences across all channels. With Optimizely One, our industry-first operating system for marketers, we offer teams flexibility and choice to build their stack their way with our fully SaaS, fully decoupled, and highly composable solution. We help companies around the world orchestrate their entire content lifecycle, monetize every digital experience and experiment across all customer touchpoints – all through Optimizely One, the leading digital experience platform that powers every phase of the marketing lifecycle through a single, AI-accelerated workflow. \r\n\nOptimizely has nearly 1500 employees across our 21 global offices and has 700+ partners. We are proud to help more than 10,000 businesses, including H&M, PayPal, Zoom, and Toyota, enrich their customer lifetime value, increase revenue and grow their brands. At Optimizely, we live each day with a simple philosophy: large enough to serve, small enough to care. Learn more at optimizely.com.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/0d8d48fc3d7aa043a1e1d86d30f84a388f342454.png",
+    "tags": [
+      "MARKETING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACQUIRED",
+    "batch": "Winter 2010",
+    "website": "http://optimizely.com",
+    "year_founded": null,
+    "team_size": "1500",
+    "company_location": "San Francisco",
+    "company_linkedin": "https://www.linkedin.com/company/optimizely",
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 26554,
+        "name": "Pete Koomen",
+        "linkedin": "https://www.linkedin.com/in/petekoomen/",
+        "x": "https://twitter.com/koomen"
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/octavewealth",
+    "company_id": 432,
+    "company_name": "OctaveWealth",
+    "short_description": "The 401(k) that helps you grow",
+    "long_description": "We’ll build the 401(k) you need to help attract and retain talent.\r\n\nOctaveWealth is operated by Quillu Inc, an SEC registered Investment Advisor.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/2abf832821e128ddf8c791dbe39699a70dc1adb4.png",
+    "tags": [
+      "FINANCE",
+      "INVESTING",
+      "SAN FRANCISCO"
+    ],
+    "status": "ACTIVE",
+    "batch": "Summer 2012",
+    "website": "https://octavewealth.com",
+    "year_founded": null,
+    "team_size": "2",
+    "company_location": "San Francisco",
+    "company_linkedin": null,
+    "company_x": null,
+    "primary_partner": null,
+    "founders": [
+      {
+        "id": 29420,
+        "name": "Rikin Shah",
+        "linkedin": "https://linkedin.com/in/rik1shah",
+        "x": null
+      }
+    ],
+    "is_hiring": false,
+    "number_of_open_jobs": 0,
+    "open_jobs": null
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/autumn",
+    "company_id": 30086,
+    "company_name": "Autumn",
+    "short_description": "Billing infrastructure for AI",
+    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point.",
+    "company_image": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
+    "tags": null,
+    "status": "ACTIVE",
+    "batch": "Summer 2025",
+    "website": "https://useautumn.com",
+    "year_founded": "2025",
+    "team_size": "2",
+    "company_location": null,
+    "company_linkedin": "https://www.linkedin.com/company/useautumn",
+    "company_x": "https://x.com/autumnpricing",
+    "primary_partner": "Pete Koomen",
+    "founders": [
+      {
+        "id": 642208,
+        "name": "Ayush Rodrigues",
+        "linkedin": "https://www.linkedin.com/in/ayushro/",
+        "x": "https://x.com/ay_ushr"
+      },
+      {
+        "id": 1207444,
+        "name": "John Yeo",
+        "linkedin": "https://www.linkedin.com/in/johnyeocx",
+        "x": "https://x.com/johnyeo_"
+      }
+    ],
+    "is_hiring": true,
+    "number_of_open_jobs": 1,
+    "open_jobs": [
+      {
+        "id": 81271,
+        "title": "Founding Engineer",
+        "description_url": "https://www.ycombinator.com/companies/autumn/jobs/uhPQyKL-founding-engineer",
+        "description": "We’re looking for a generalist Founding Engineer who loves to\nbuild\n, loves\ndevelopers\nand has\nexcellent product taste\n. You should have built something in the past and got users for it. You probably want to start your own company one day.\nThis will be full time, in person in our London office. You will have the option to move to SF too once we establish there. We work a bit harder than your typical 9-5 but you’ll be compensated appropriately for it!",
+        "location": "London, England, GB / San Francisco, CA, US",
+        "salary": "$100K - $160K",
+        "years_experience": "Any (new grads ok)"
+      }
+    ]
+  }
+]
